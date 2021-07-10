@@ -1,0 +1,38 @@
+Libraries Needed:
+nltk
+pandas
+sklearn
+numpy
+
+
+Note: The code was run and executed in both Jupyter notebook as well as Spyder IDEs. It is assumed that the user has installed anaconda from https://www.anaconda.com/products/individual
+. Open the anaconda IDE, then click on install for jupyternotebook or spyder by clicking at the install button if not installed. If already installed click 'launch'.
+
+If anaconda is not installed follow the below Environment setting steps:
+
+Envirnoment Setting Up steps:
+1)Install anaconda IDE if not already installed. Go to website https://www.anaconda.com/products/individual and install the anaconda IDE.
+2)install python latest version
+3)open anaconda shell and type 
+conda install -c anaconda nltk
+type 'y' and press ENTER.
+
+For running code on Spyder:
+4) Open Spyder IDE 
+5)In console type: 
+import nltk
+nltk.download()
+
+then NLTK downloader pop-up will show on screen select all the install all nltk libraries, if already installed nltk library please do not do this step.
+
+
+
+5) Load the code sentiment_analysis_solution_code.py file. And click on run button. Results will be displayed in Console.
+
+For running code on Jupyter Notebook:
+4) Open Jupyter notebook from anaconda. 
+5)If using nltk for the 1st time type and run:
+import nltk
+nltk.download()
+If already installed nltk library please ignore this step.
+6) Load the file named as sentiment_analysis_solution_jupyternotebook.ipynb and click on 'restart the kernel, and re-run the whole code'. Results will be displayed in Console.
