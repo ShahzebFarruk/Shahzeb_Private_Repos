@@ -1,0 +1,1 @@
+## This folder has two categories of code: 1)Reporting Mechnism: This code will help you get data from MySQL server and then do the logic to calculate the active hours the users were active. MySQL scripts and formats are also added. 2)Similarly most searched topic is using NLP and gensim lib.

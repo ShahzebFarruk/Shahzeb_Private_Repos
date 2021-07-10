@@ -1,0 +1,1 @@
+## This Folder contains C_Programs not all of them are fully finished some might be repeation of the others. Its all based on Linked Lists, I tried to use arrays as input for linked lists using scanf() and passing it to linked lists. Also you may find binary search tree algorithms.

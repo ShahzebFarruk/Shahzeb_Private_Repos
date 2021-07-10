@@ -1,0 +1,30 @@
+CREATE TABLE tickets.ticket_table_1(
+    id INT PRIMARY KEY,
+    platform_parameter_id INT,
+    company VARCHAR (20),
+    user_id INT,
+    end_user_id VARCHAR(20),
+    end_user_name VARCHAR(20),
+    ticket_status_id INT,
+    created_at DATETIME,
+    end_user_info VARCHAR(20)
+);
+
+
+
+Insert into ticket_table_1
+Values 
+(18,1100,'Spreedix',1990,'endUserid123','Shahzeb',110,'2020-01-11 00:00:10.1234567','endUserinfo');
+#(10,1100,'Spreedix',1990,'endUserid123','Shahzeb',110,'2020-01-03 10:12:10.1234567','endUserinfo'),
+#(11,1100,'Spreedix',1990,'endUserid123','Shahzeb',110,'2020-01-04 10:30:10.1234567','endUserinfo'),
+#(12,1100,'Spreedix',1990,'endUserid123','Shahzeb',110,'2020-01-05 10:40:10.1234567','endUserinfo'),
+#(13,1100,'Spreedix',1990,'endUserid123','Shahzeb',110,'2020-01-06 11:10:10.1234567','endUserinfo'),
+#(14,1100,'Spreedix',1990,'endUserid123','Shahzeb',110,'2020-01-07 20:10:10.1234567','endUserinfo'),
+#(15,1100,'Spreedix',1990,'endUserid123','Shahzeb',110,'2020-01-08 20:44:13.1234567','endUserinfo'),
+#(16,1100,'Spreedix',1990,'endUserid123','Shahzeb',110,'2020-01-09 20:15:10.1234567','endUserinfo'),
+#(17,1100,'Spreedix',1990,'endUserid123','Shahzeb',110,'2020-01-10 21:01:10.1234567','endUserinfo');
+
+
+
+select * from ticket_table_1;
+
