@@ -1,0 +1,2308 @@
+subject,relation,object,subject_type,object_type
+Family physicians,hold,M.D.,NOUN_CHUNK,NOUN_CHUNK
+certification,requires,five years,NOUN_CHUNK,DATE
+term Primary Care,include,services,NOUN_CHUNK,NOUN_CHUNK
+Family physicians,deliver,range,NOUN_CHUNK,NOUN_CHUNK
+family physicians,treat,patients,NOUN_CHUNK,NOUN_CHUNK
+Family medicine,play,important role,NOUN_CHUNK,NOUN_CHUNK
+family physicians,provide,care,NOUN_CHUNK,NOUN_CHUNK
+Family physicians,complete,undergraduate degree,NOUN_CHUNK,NOUN_CHUNK
+Family physicians residency training,includes,rotations,NOUN_CHUNK,NOUN_CHUNK
+Residents,provide,care,NOUN_CHUNK,NOUN_CHUNK
+Family physicians,pursue,fellowships,NOUN_CHUNK,NOUN_CHUNK
+The American Board of Family Medicine,offer,Certificates of Added,ORG,ORG
+patients,have,direct access,NOUN_CHUNK,NOUN_CHUNK
+1 % deterioration,produce,10 % deterioration,NOUN_CHUNK,NOUN_CHUNK
+"2017 more than 1,061 practices",employing,pharmacists,CARDINAL,NOUN_CHUNK
+Northumbria Healthcare NHS Foundation Trust,taken over,multiple GP practices,ORG,NOUN_CHUNK
+40%,got,day appointment,PERCENT,NOUN_CHUNK
+Association of Departments of Family Medicine,demanded,increased funding,ORG,NOUN_CHUNK
+new GP contract,included,funding,NOUN_CHUNK,NOUN_CHUNK
+Indian Medical Council,requires,three-year residency,ORG,DATE
+curriculum,comprises,medicine,NOUN_CHUNK,NOUN_CHUNK
+candidates,receive,integrated inpatient outpatient learning,NOUN_CHUNK,NOUN_CHUNK
+candidates,receive,field training,NOUN_CHUNK,NOUN_CHUNK
+Calicut,started,MD (FM,GPE,ORG
+residency trained family physicians,formed,AFPI,NOUN_CHUNK,NOUN_CHUNK
+Government,declared,Family Medicine,NOUN_CHUNK,ORG
+the National Board of Examination India,define,standard,ORG,NOUN_CHUNK
+doctors,have,formal training,NOUN_CHUNK,NOUN_CHUNK
+the American Board of Medical Specialties (ABMS,announced,recognition,ORG,NOUN_CHUNK
+Doctor,seek,board certification,NOUN_CHUNK,NOUN_CHUNK
+Successful completion,grant,certificate,NOUN_CHUNK,NOUN_CHUNK
+Preventive Medicine,provide,certification,ORG,NOUN_CHUNK
+healthcare students,view,addiction substance abuse,NOUN_CHUNK,NOUN_CHUNK
+The American Board of Pediatrics,require,evidence,ORG,NOUN_CHUNK
+adolescent medicine fellowships,include,rotations,NOUN_CHUNK,NOUN_CHUNK
+World Organisation of Family Doctors,has,membership base,ORG,NOUN_CHUNK
+based undergraduate graduate Family Medicine training Curriculum,Promote,residency,NOUN_CHUNK,NOUN_CHUNK
+AFPI,advocates,academic institutionalization,ORG,NOUN_CHUNK
+newly instituted AIIMS,established,new department,NOUN_CHUNK,NOUN_CHUNK
+AFPI,supported,equal professional opportunities,ORG,NOUN_CHUNK
+National Health System Resource Centre,conducted,national consultation,NOUN_CHUNK,NOUN_CHUNK
+National Health Policy,recommended,promotion,NOUN_CHUNK,NOUN_CHUNK
+peer reviewed medical journal,publishes,quarterly issues,NOUN_CHUNK,DATE
+Dr Abhijat Sheth,graced,FMPC 2017,PERSON,PERSON
+Dr Bipin Batra Executive Director NBE,delivered,2nd Dr P Padmanabhan Memorial Award Oration,NOUN_CHUNK,NOUN_CHUNK
+Noted athletic hero Mr Milkha Singh,launched,campaign,NOUN_CHUNK,NOUN_CHUNK
+AFPI,instituted,oration award,ORG,NOUN_CHUNK
+Drs Jyoti,pledged,donation,PERSON,NOUN_CHUNK
+National Health System Resource Centre,facilitates,international exchange opportunities,NOUN_CHUNK,NOUN_CHUNK
+15th World Rural Health Conference New Delhi New Delhi,hosted,15th WONCA World Rural Health conference,ORDINAL,NOUN_CHUNK
+National Conference on Family Medicine and Primary Care,attracted,thousand delegates,ORG,NOUN_CHUNK
+Vice President,inaugurated,conference,NOUN_CHUNK,NOUN_CHUNK
+ACGME,recognizes,45 different residency programs,NOUN_CHUNK,CARDINAL
+general psychiatrists,commit,general psychiatrists,NOUN_CHUNK,NOUN_CHUNK
+Addiction psychiatrists,treat,wide variety,NOUN_CHUNK,NOUN_CHUNK
+Addiction,Use,Disorders,NOUN_CHUNK,NOUN_CHUNK
+table,gives,count,NOUN_CHUNK,NOUN_CHUNK
+level,indicates,anatomical main group,NOUN_CHUNK,NOUN_CHUNK
+second level,indicates,therapeutic subgroup,NOUN_CHUNK,NOUN_CHUNK
+level,indicates,therapeutic pharmacological subgroup,NOUN_CHUNK,NOUN_CHUNK
+fourth level,indicates,chemical therapeutic pharmacological subgroup,NOUN_CHUNK,NOUN_CHUNK
+fifth level,indicates,chemical substance,NOUN_CHUNK,NOUN_CHUNK
+furosemide,has,code,NOUN_CHUNK,NOUN_CHUNK
+The Anatomical Therapeutic Chemical Classification System,includes,defined daily doses,ORG,NOUN_CHUNK
+National issues,include,additional codes,NOUN_CHUNK,NOUN_CHUNK
+Allergies,include,hay fever,NOUN_CHUNK,NOUN_CHUNK
+Symptoms,include,red eyes,NOUN_CHUNK,NOUN_CHUNK
+Common allergens,include,pollen,NOUN_CHUNK,NOUN_CHUNK
+Metals,cause,problems,NOUN_CHUNK,NOUN_CHUNK
+Treatments,include,avoidance,NOUN_CHUNK,NOUN_CHUNK
+about 1–18%,have,asthma,PERCENT,NOUN_CHUNK
+allergic rhinitis,causes,irritation,NOUN_CHUNK,NOUN_CHUNK
+Symptoms,include,abdominal pain,NOUN_CHUNK,NOUN_CHUNK
+Food allergies,cause,respiratory asthmatic reactions,NOUN_CHUNK,NOUN_CHUNK
+anaphylaxis,include,skin reactions,NOUN_CHUNK,NOUN_CHUNK
+Skin allergies,cause,rashes,NOUN_CHUNK,NOUN_CHUNK
+wide variety,cause,allergic reactions,NOUN_CHUNK,NOUN_CHUNK
+Egg allergies,affect,one to two percent,NOUN_CHUNK,PERCENT
+Roughly 10%,have,reaction,PERCENT,NOUN_CHUNK
+genetic modification,remove,allergens,NOUN_CHUNK,NOUN_CHUNK
+Latex,trigger,IgE mediated cutaneous respiratory systemic reaction,NOUN_CHUNK,NOUN_CHUNK
+Researchers,attribute,higher level,NOUN_CHUNK,NOUN_CHUNK
+reaction,lasts,48–96 hours,NOUN_CHUNK,TIME
+food induced allergies,induced,systemic responses,NOUN_CHUNK,NOUN_CHUNK
+resulting dermatological response,includes,redness,NOUN_CHUNK,NOUN_CHUNK
+Approximately 25 percent,have,strong allergic response,PERCENT,NOUN_CHUNK
+Epidemiological data,support,hygiene hypothesis,NOUN_CHUNK,NOUN_CHUNK
+Chronic stress,aggravate,allergic conditions,NOUN_CHUNK,NOUN_CHUNK
+Stress management,improve,symptoms,NOUN_CHUNK,NOUN_CHUNK
+Cytokines,play,role,NOUN_CHUNK,NOUN_CHUNK
+skin prick test,used,similar diagnostic value,NOUN_CHUNK,NOUN_CHUNK
+early accurate diagnoses,save,cost,NOUN_CHUNK,NOUN_CHUNK
+Allergy,undergoes,dynamic changes,NOUN_CHUNK,NOUN_CHUNK
+Common areas,include,inside forearm,NOUN_CHUNK,NOUN_CHUNK
+Adults,get,allergy blood test,NOUN_CHUNK,NOUN_CHUNK
+mother diet,is,risk,NOUN_CHUNK,NOUN_CHUNK
+people,given under,tongue,NOUN_CHUNK,NOUN_CHUNK
+evidence,tried for,effectiveness,NOUN_CHUNK,NOUN_CHUNK
+review,found,effectiveness,NOUN_CHUNK,NOUN_CHUNK
+Important elements,include,exposure,NOUN_CHUNK,NOUN_CHUNK
+newer methods,use,colorimetric fluorescence labeled technology,NOUN_CHUNK,NOUN_CHUNK
+Internists,complete,at least an additional two years,NOUN_CHUNK,DATE
+Allergist immunologists,passed,certifying examination,NOUN_CHUNK,NOUN_CHUNK
+the House of Lords,convened,subcommittee,ORG,NOUN_CHUNK
+Allied health professions,provide,range,NOUN_CHUNK,NOUN_CHUNK
+Allied health professions,include,use,NOUN_CHUNK,NOUN_CHUNK
+2008 version,increased,number,NOUN_CHUNK,NOUN_CHUNK
+Social Assistance,provides,services,ORG,NOUN_CHUNK
+The American Board of Family Medicine,adopted,The American Board of Family Medicine,ORG,ORG
+Candidates,complete,requirements,NOUN_CHUNK,NOUN_CHUNK
+Certification candidates,completed,three years,NOUN_CHUNK,DATE
+American Board of Family Medicine Family Medicine,has,reciprocity agreements,ORG,NOUN_CHUNK
+AMA Council,granted,approval,NOUN_CHUNK,NOUN_CHUNK
+alternative sector marketing,advertises,treatments,NOUN_CHUNK,NOUN_CHUNK
+widely definition,calls,NCCIH,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,healing claims,NOUN_CHUNK,NOUN_CHUNK
+Bioelectromagnetic-based therapies,use,verifiable electromagnetic fields,NORP,NOUN_CHUNK
+history,includes,histories,NOUN_CHUNK,NOUN_CHUNK
+Changes,included,relaxed medical licensing,NOUN_CHUNK,NOUN_CHUNK
+Medical schools teaching,includes,topics,NOUN_CHUNK,NOUN_CHUNK
+the School of Medicine of the University of Maryland,includes,research institute,ORG,NOUN_CHUNK
+project,identified,208 condition-treatment pairs,NOUN_CHUNK,CARDINAL
+the Cochrane Library,had,145 CAM-related Cochrane systematic reviews,ORG,CARDINAL
+Use,produce,confounded difficult interpret results,NOUN_CHUNK,NOUN_CHUNK
+Cancer researcher Andrew J. Vickers,investigated in,stated:.Contrary,NOUN_CHUNK,ORG
+Treatments,have,known significant effects,NOUN_CHUNK,NOUN_CHUNK
+medications,cause,minor bothersome symptoms,NOUN_CHUNK,NOUN_CHUNK
+NCCAM's sister organization,gives,grants,ORG,NOUN_CHUNK
+Thirty-one states,have,child abuse religious exemptions,CARDINAL,NOUN_CHUNK
+Americans,spend,billions,NORP,NOUN_CHUNK
+more than 37%,offered,alternative therapies,PERCENT,NOUN_CHUNK
+Counseling,stress,therapies,NOUN_CHUNK,NOUN_CHUNK
+Government bodies,published,information,NOUN_CHUNK,NOUN_CHUNK
+The U.S. Food and Drug Administration,issued,online warnings,ORG,NOUN_CHUNK
+herbal remedies,cause,dangerous interactions,NOUN_CHUNK,NOUN_CHUNK
+MacLennan,gives,possible,ORG,NOUN_CHUNK
+The U.S. Food and Drug Administration,regulated,homeopathic products,ORG,NOUN_CHUNK
+manufacturers,marketed without,scientific research,NOUN_CHUNK,NOUN_CHUNK
+patient knowledge,affects,therapy outcome,NOUN_CHUNK,NOUN_CHUNK
+ABMS Member Boards,maintained,rigorous process,ORG,NOUN_CHUNK
+ABMS Member Boards,certify,specialists,NOUN_CHUNK,NOUN_CHUNK
+physicians,More than 80 percent of,Board Certification,NOUN_CHUNK,ORG
+ABMS Member Boards,support,lifelong learning,NOUN_CHUNK,NOUN_CHUNK
+information,provides,overview,NOUN_CHUNK,NOUN_CHUNK
+physicians,maintain,physicians medical specialty expertise,NOUN_CHUNK,NOUN_CHUNK
+Improvement,measure,competencies,NOUN_CHUNK,NOUN_CHUNK
+list,shows,year,NOUN_CHUNK,NOUN_CHUNK
+organization,assumed,unofficial,NOUN_CHUNK,NOUN_CHUNK
+The American College of Osteopathic Family Physicians,relocated,The American College of Osteopathic Family Physicians,ORG,ORG
+The American College of Osteopathic Family Physicians,presented,award,ORG,NOUN_CHUNK
+content,covers,preventive medicine,NOUN_CHUNK,NOUN_CHUNK
+organization,bestows,honor,NOUN_CHUNK,NOUN_CHUNK
+"6,344 osteopathic family physicians",held,active certification,CARDINAL,NOUN_CHUNK
+Osteopathic family physicians,receive,Certification of Added Qualifications,NOUN_CHUNK,ORG
+pathologists,practice,anatomical clinical pathology,NOUN_CHUNK,NOUN_CHUNK
+Clinical pathology subsections,include,chemistry,NOUN_CHUNK,NOUN_CHUNK
+Surgical pathology,involves,gross microscopic examination,NOUN_CHUNK,NOUN_CHUNK
+Surgical pathology,requires,technologies,NOUN_CHUNK,NOUN_CHUNK
+pathologist,used to,cause,NOUN_CHUNK,NOUN_CHUNK
+certificates,include,general pathology,NOUN_CHUNK,NOUN_CHUNK
+Candidates,completed,four years,NOUN_CHUNK,DATE
+trainee,complete,four years,NOUN_CHUNK,DATE
+Proposed changes,eliminate,arrangements,NOUN_CHUNK,NOUN_CHUNK
+Arterial diseases,covers,arterial thrombosis,NOUN_CHUNK,NOUN_CHUNK
+Venous diseases,include,venous thrombosis,NOUN_CHUNK,NOUN_CHUNK
+Lymphatic diseases,include,primary secondary forms,NOUN_CHUNK,NOUN_CHUNK
+Lymphatic diseases,involves,modification,NOUN_CHUNK,NOUN_CHUNK
+twelve NIH,funded,three-year programs,CARDINAL,DATE
+Babylon Health Services Ltd. Babylon Partners Babylon Health Services Ltd. Babylon Partners,lost,£12.9 million,ORG,MONEY
+Babylon Health Services Ltd. Babylon Partners,lost,£66.7 million,ORG,MONEY
+Babylon,raised,$25M,GPE,MONEY
+Babylon investors,include,the Hoxton Ventures,GPE,ORG
+Media coverage,reported,valuation,NOUN_CHUNK,NOUN_CHUNK
+The Babylon Health app,features,controversial Chatbot Symptom Checker,ORG,NOUN_CHUNK
+Dominic Cummings,advised,Matthew Hancock,PERSON,PERSON
+rollout,triggered,massive backlash,NOUN_CHUNK,NOUN_CHUNK
+Telus Alberta's privacy commissioner,launched,two investigations,ORG,CARDINAL
+Babylon's actions,are,mis - advertising breach,GPE,NOUN_CHUNK
+practice,defended,practice,NOUN_CHUNK,NOUN_CHUNK
+The Care Quality Commission,rated,service,ORG,NOUN_CHUNK
+Babylon app launch,had,"4,000 patients",NOUN_CHUNK,CARDINAL
+Babylon,opened,registrations,ORG,NOUN_CHUNK
+2019 GP contract,reduce,funding,NOUN_CHUNK,NOUN_CHUNK
+Samsung Health,closed,550 million round,ORG,NOUN_CHUNK
+Babylon Holdings Enterprises Ltd,filed,7 claim,ORG,NOUN_CHUNK
+Babylon,raised,legal complaint,GPE,NOUN_CHUNK
+USA Partnership website,listed,organisations,ORG,NOUN_CHUNK
+disciplines,include,biochemistry,NOUN_CHUNK,NOUN_CHUNK
+research project,forms,large component,NOUN_CHUNK,NOUN_CHUNK
+students,undertake,research project) Egypt,NOUN_CHUNK,NOUN_CHUNK
+Bailey Barton Burritt,married,Ruth Hogarth Dennis,PERSON,PERSON
+state bar associations,offer,board certification,NOUN_CHUNK,NOUN_CHUNK
+organizations,offer,certification,NOUN_CHUNK,NOUN_CHUNK
+the American Bar Association Standing Committee on Specialization,offers,extensive resources,ORG,NOUN_CHUNK
+approach,follows,Rule,NOUN_CHUNK,NOUN_CHUNK
+the American Bar Association Standing Committee on Specialization,lists,specialty certification programs,ORG,NOUN_CHUNK
+board certification process,generated,number,NOUN_CHUNK,NOUN_CHUNK
+Andrology,covers,anomalies,NOUN_CHUNK,NOUN_CHUNK
+male specific medical surgical procedures,include,vasectomy,NOUN_CHUNK,NOUN_CHUNK
+the American Society of Andrology,launched,the Journal of Andrology,ORG,ORG
+COVID-19 pandemic,reached,UK,NOUN_CHUNK,NOUN_CHUNK
+social distancing,reported that,curve,NOUN_CHUNK,NOUN_CHUNK
+Scotland,introduced,tiered restrictions,GPE,NOUN_CHUNK
+UK,had,one of the highest vaccination rates in the world,NOUN_CHUNK,CARDINAL
+Genetic sequencing,traced,COVID-19 cases,NOUN_CHUNK,NOUN_CHUNK
+London,providing,mathematically calculated estimates,GPE,NOUN_CHUNK
+new type,some of,up to 60%,NOUN_CHUNK,PERCENT
+Imperial College team,provided,detailed forecasts,NOUN_CHUNK,NOUN_CHUNK
+Imperial College team,detailed,potential outcomes,NOUN_CHUNK,NOUN_CHUNK
+25 year old student,taken to,virus,NOUN_CHUNK,NOUN_CHUNK
+COVID-19,had,at least 1356 origins,NOUN_CHUNK,CARDINAL
+COVID-19,showed,symptoms,NOUN_CHUNK,NOUN_CHUNK
+people,missed,flight,NOUN_CHUNK,NOUN_CHUNK
+DHSC,confirmed,four new cases,NOUN_CHUNK,CARDINAL
+UK CMOs,raised,risk,NOUN_CHUNK,NOUN_CHUNK
+Arlene Foster,followed,suit,PERSON,NOUN_CHUNK
+the UK Government,downgraded,status,ORG,NOUN_CHUNK
+the UK Government,announced,closure,ORG,NOUN_CHUNK
+The Foreign and Commonwealth Office,repatriated,tens of thousands,ORG,CARDINAL
+Dominic Raab,assumed,Prime Minister Boris Johnson duties,PERSON,NOUN_CHUNK
+Prime Minister Boris Johnson,left,hospital,NOUN_CHUNK,NOUN_CHUNK
+Arlene Foster,extended,period,PERSON,NOUN_CHUNK
+Dominic Raab,set out,five conditions,PERSON,CARDINAL
+Prime Minister Boris Johnson statement Prime Minister Boris Johnson,changed,slogan,NOUN_CHUNK,NOUN_CHUNK
+Prime Minister Boris Johnson,published,60-page document,NOUN_CHUNK,NOUN_CHUNK
+the UK Government,revised,total number,ORG,NOUN_CHUNK
+UK nations,had,cut period,NOUN_CHUNK,NOUN_CHUNK
+New Scientist,examined,month history,NOUN_CHUNK,NOUN_CHUNK
+New Scientist,criticised,lack,NOUN_CHUNK,NOUN_CHUNK
+the UK Government,published,new social distancing rules,ORG,NOUN_CHUNK
+BBC,reduced,BBC daily coverage,NOUN_CHUNK,NOUN_CHUNK
+the UK Government,tightened,restrictions,ORG,NOUN_CHUNK
+UK,reported,highest daily rise,NOUN_CHUNK,NOUN_CHUNK
+Margaret Ferrier,received,calls,PERSON,NOUN_CHUNK
+Police,began,investigation,NOUN_CHUNK,NOUN_CHUNK
+Public Health England,made,announcement,ORG,NOUN_CHUNK
+Labour,used,term,ORG,NOUN_CHUNK
+Funerals,face,20 person limit,NOUN_CHUNK,NOUN_CHUNK
+Pubs,face,curfew,NOUN_CHUNK,NOUN_CHUNK
+Public Health England,entered,second week long lockdown,ORG,NOUN_CHUNK
+Wales,ended,Wales firebreak lockdown,GPE,GPE
+Total deaths,passed,"50,000 on 11 November",NOUN_CHUNK,CARDINAL
+First vaccines,approved,new variant,ORDINAL,NOUN_CHUNK
+UK Government,agreed under,statutory blanket payout,NOUN_CHUNK,NOUN_CHUNK
+20 December 2020 countries,introducing,bans,CARDINAL,NOUN_CHUNK
+NHS trust,prioritised,anti - bacterial ventilator filters,NOUN_CHUNK,NOUN_CHUNK
+the UK Government,issued,specification,ORG,NOUN_CHUNK
+NHS Louisa Jordan,established,temporary Nightingale hospitals,PERSON,NOUN_CHUNK
+Pullicino,requested,independent inquiry,NOUN_CHUNK,NOUN_CHUNK
+UK,developed,prototype specific laboratory test,NOUN_CHUNK,NOUN_CHUNK
+PHE,approved,antibody test,ORG,NOUN_CHUNK
+Scotland,developing,surveillance,GPE,NOUN_CHUNK
+Swiss pharmaceutical company,had,gentleman agreement,NOUN_CHUNK,NOUN_CHUNK
+UK,Innovate,£20 million funding,NOUN_CHUNK,MONEY
+Medicines Healthcare products Regulatory Agency,approved,second model,NOUN_CHUNK,NOUN_CHUNK
+the UK Government,put,order,ORG,NOUN_CHUNK
+the UK Government,ordered,"15,000 of 10,000 devices",ORG,CARDINAL
+Eight other designs,had,Eight other designs support,CARDINAL,CARDINAL
+economic disruption,eliminated,significant impact,NOUN_CHUNK,NOUN_CHUNK
+event,included,speakers,NOUN_CHUNK,NOUN_CHUNK
+Pfizer‑BioNTech COVID‑19 vaccine,require,two doses,NOUN_CHUNK,CARDINAL
+group,sent,letter,NOUN_CHUNK,NOUN_CHUNK
+study,corroborated,ONS findings,NOUN_CHUNK,NOUN_CHUNK
+study,found,link,NOUN_CHUNK,NOUN_CHUNK
+medical specialty,encompasses,anesthesia,NOUN_CHUNK,NOUN_CHUNK
+non - physicians,use,titles,NOUN_CHUNK,NOUN_CHUNK
+patients,opened by,prolonged artificial ventilation,NOUN_CHUNK,NOUN_CHUNK
+anesthesiologist,allowed,patient,NOUN_CHUNK,NOUN_CHUNK
+Effective practice,requires,areas,NOUN_CHUNK,NOUN_CHUNK
+ANZCA approved training course,encompasses,initial year long Pre - vocational Medical Education,NOUN_CHUNK,NOUN_CHUNK
+ANZCA approved training course,has,program,NOUN_CHUNK,NOUN_CHUNK
+Trainees,undergo,course,NOUN_CHUNK,NOUN_CHUNK
+residency programs,take,place,NOUN_CHUNK,NOUN_CHUNK
+residents,undergo,exams,NOUN_CHUNK,NOUN_CHUNK
+the Brazilian Society of Anesthesiology,conducts,examinations,ORG,NOUN_CHUNK
+board examination,includes,written section,NOUN_CHUNK,NOUN_CHUNK
+medical school graduate,complete,accredited year residency,NOUN_CHUNK,NOUN_CHUNK
+Medical school graduates,complete,month internship,NOUN_CHUNK,NOUN_CHUNK
+SSAI,hosts,six training programs,PERSON,CARDINAL
+trainees,passed,primary examination,NOUN_CHUNK,NOUN_CHUNK
+physicians,learn,anaesthesia,NOUN_CHUNK,NOUN_CHUNK
+trainees,entered,anaesthesia,NOUN_CHUNK,NOUN_CHUNK
+Specialist training,takes,at least seven years,NOUN_CHUNK,DATE
+new consultant,completed,minimum,NOUN_CHUNK,NOUN_CHUNK
+Pain specialists,give,examination,NOUN_CHUNK,NOUN_CHUNK
+anesthesiology residency programs,require,successful completion,NOUN_CHUNK,NOUN_CHUNK
+Residency training,encompasses,scope,NOUN_CHUNK,NOUN_CHUNK
+anesthesiologists,complete,an additional fellowship year,NOUN_CHUNK,DATE
+Dental anesthesiology residency programs,require,successful completion,NOUN_CHUNK,NOUN_CHUNK
+ABA,involves,written,NOUN_CHUNK,NOUN_CHUNK
+universities,renamed,universities,NOUN_CHUNK,NOUN_CHUNK
+The Bridgetown International University,award,MB ChB.China,ORG,NOUN_CHUNK
+Egyptian medical schools,award,MB BCh,NOUN_CHUNK,NOUN_CHUNK
+French students,undertake,competitive examination,NORP,NOUN_CHUNK
+The University of Guyana,awards,MB BS,ORG,PERSON
+awarding,follows,British tradition,NOUN_CHUNK,NOUN_CHUNK
+Medical colleges,teach,Post Graduate,NOUN_CHUNK,ORG
+MBBS course,contains,12-month long internship,NOUN_CHUNK,NOUN_CHUNK
+MBBS course,contains,12-month long internship,NOUN_CHUNK,NOUN_CHUNK
+new medical colleges,add,"5,800 more MBBS seats",NOUN_CHUNK,CARDINAL
+medical schools,award,MB ChB.,NOUN_CHUNK,NOUN_CHUNK
+LRCPI LRCSI,denotes,holder,ORG,NOUN_CHUNK
+India,award,year BSc,GPE,NOUN_CHUNK
+schools,award,MBBCh,NOUN_CHUNK,NOUN_CHUNK
+the National Autonomous University of Mexico,grant,title,ORG,NOUN_CHUNK
+The University of Namibia UNAM School of Medicine,awards,MBChB degree,ORG,NOUN_CHUNK
+Medical colleges,teach,Post Graduate courses,NOUN_CHUNK,ORG
+Medical schools,award,MBBS,NOUN_CHUNK,NOUN_CHUNK
+India Singapore,confer,MB BS,GPE,ORG
+India,has,medical programme,GPE,NOUN_CHUNK
+India,follows,North American model,GPE,NOUN_CHUNK
+India,award,MB ChB,GPE,NOUN_CHUNK
+India,awards,MMBS,GPE,ORG
+India South Sudan,awards,MBBS degree,GPE,NOUN_CHUNK
+Sudanese medical schools,award,MBBS,NOUN_CHUNK,NOUN_CHUNK
+training,takes,a minimum of seven years,NOUN_CHUNK,DATE
+Students,undertake,competitive examination,NOUN_CHUNK,NOUN_CHUNK
+medical schools,award,MB ChB,NOUN_CHUNK,PERSON
+The University of St Andrews School of Medicine,awarded,MB ChB,ORG,PERSON
+joint initiative,based,joint initiative,NOUN_CHUNK,NOUN_CHUNK
+International medical graduates,provided that,USMLE Wisconsin,NOUN_CHUNK,NOUN_CHUNK
+constituent countries,confer,MB BS,NOUN_CHUNK,PERSON
+the University of London,confers,MB BS,ORG,NOUN_CHUNK
+medical schools,are,North American system,NOUN_CHUNK,NOUN_CHUNK
+American University,awards,MBChB degree,ORG,NOUN_CHUNK
+qualifications,Other professions,similar pattern,NOUN_CHUNK,NOUN_CHUNK
+medical students,obtain,degree,NOUN_CHUNK,NOUN_CHUNK
+society,be,society,NOUN_CHUNK,NOUN_CHUNK
+Major pubertal biological changes,include,changes,NOUN_CHUNK,NOUN_CHUNK
+study,involves,interdisciplinary collaborations,NOUN_CHUNK,NOUN_CHUNK
+environmental factors,influenced,influences,NOUN_CHUNK,NOUN_CHUNK
+boys,develop,gynecomastia,NOUN_CHUNK,NOUN_CHUNK
+men,develop,facial hair,NOUN_CHUNK,NOUN_CHUNK
+timing,have,important psychological social consequences,NOUN_CHUNK,NOUN_CHUNK
+adolescents,experience,significant increase,NOUN_CHUNK,NOUN_CHUNK
+weight,constitutes,nearly half,NOUN_CHUNK,CARDINAL
+Pubertal development,affects,circulatory respiratory systems,ORG,NOUN_CHUNK
+environmental factors,play,large role,NOUN_CHUNK,NOUN_CHUNK
+environmental influences,affect,female physical development,NOUN_CHUNK,NOUN_CHUNK
+stages,involve,growth,NOUN_CHUNK,NOUN_CHUNK
+changes,involve,growth,NOUN_CHUNK,NOUN_CHUNK
+Changes,involve,appearance,NOUN_CHUNK,NOUN_CHUNK
+secondary sex changes,involve,elevation,NOUN_CHUNK,NOUN_CHUNK
+person,developed by,puberty,NOUN_CHUNK,NOUN_CHUNK
+areas,lose,matter,NOUN_CHUNK,NOUN_CHUNK
+areas,include,lateral prefrontal cortices,NOUN_CHUNK,NOUN_CHUNK
+balance,have,implications,NOUN_CHUNK,NOUN_CHUNK
+corresponding increase,increase,adolescents vulnerability,NOUN_CHUNK,NOUN_CHUNK
+serotonin receptors,have,serotonin receptors gene expression change,NOUN_CHUNK,NOUN_CHUNK
+Improved knowledge,increase,self control,NOUN_CHUNK,NOUN_CHUNK
+Adolescents,develop,sophisticated understanding,NOUN_CHUNK,NOUN_CHUNK
+Children,comprehend,sarcasm,NOUN_CHUNK,NOUN_CHUNK
+perspective taking,involves,sophisticated theory,NOUN_CHUNK,NOUN_CHUNK
+Aspects,include,higher rates,NOUN_CHUNK,NOUN_CHUNK
+adolescents,show,impaired behavioral inhibition,NOUN_CHUNK,NOUN_CHUNK
+phenomenon,has,consequences,NOUN_CHUNK,NOUN_CHUNK
+Jean Macfarlane,founded,"the University of California, Berkeley's",PERSON,ORG
+Elder,formulated,descriptive principles,NOUN_CHUNK,NOUN_CHUNK
+years,create,conscientious group,NOUN_CHUNK,NOUN_CHUNK
+teens,put forth,effort,NOUN_CHUNK,NOUN_CHUNK
+identity,represents,coherent sense,NOUN_CHUNK,NOUN_CHUNK
+Erikson,described,resolution,PERSON,NOUN_CHUNK
+Modern life,takes,place,NOUN_CHUNK,NOUN_CHUNK
+Research,reveals,self examination,NOUN_CHUNK,NOUN_CHUNK
+adolescent environment,plays,huge role,NOUN_CHUNK,NOUN_CHUNK
+Troiden,proposed,stage model,ORG,NOUN_CHUNK
+young adult,adopts,young adult sexual identity,NOUN_CHUNK,NOUN_CHUNK
+social sphere,play,vital role,NOUN_CHUNK,NOUN_CHUNK
+Adolescence,marks,rapid change,NOUN_CHUNK,NOUN_CHUNK
+Social media,played,increasing role,NOUN_CHUNK,NOUN_CHUNK
+adolescents,share,attitudes,NOUN_CHUNK,NOUN_CHUNK
+Adolescence,affect,relationship,NOUN_CHUNK,NOUN_CHUNK
+divorce,have,positive effect,NOUN_CHUNK,NOUN_CHUNK
+research,suggests,negative effect,NOUN_CHUNK,NOUN_CHUNK
+parents,influence,education,NOUN_CHUNK,NOUN_CHUNK
+High quality friendships,enhance,children development,NOUN_CHUNK,NOUN_CHUNK
+Adolescents,choose,peer groups,NOUN_CHUNK,NOUN_CHUNK
+Peer groups,have,positive influences,NOUN_CHUNK,NOUN_CHUNK
+clique,create,stronger sense,NOUN_CHUNK,NOUN_CHUNK
+certain individuals,are,diversity,NOUN_CHUNK,NOUN_CHUNK
+Kissing,signify,satisfaction,NOUN_CHUNK,NOUN_CHUNK
+One in four sexually active teenagers,contract,STI,CARDINAL,NOUN_CHUNK
+Girls 15 to 19,have,higher rates,DATE,NOUN_CHUNK
+Culture,learned,aspects,NOUN_CHUNK,NOUN_CHUNK
+media,presented,teenagers,NOUN_CHUNK,NOUN_CHUNK
+Psychologists,identified,three main types,NOUN_CHUNK,CARDINAL
+Differences,reflect,social background circumstances,NOUN_CHUNK,NOUN_CHUNK
+cultures,define,transition,NOUN_CHUNK,NOUN_CHUNK
+restrictive cultures,tolerate,aspects,NOUN_CHUNK,NOUN_CHUNK
+person,gain,adult rights,NOUN_CHUNK,NOUN_CHUNK
+boys,show,relatively little difference,NOUN_CHUNK,NOUN_CHUNK
+Research,shown,striking uniformity,NOUN_CHUNK,NOUN_CHUNK
+More than a third,visited,site,CARDINAL,NOUN_CHUNK
+adolescence,last for,nearly a decade,NOUN_CHUNK,DATE
+field,includes,medical diagnosis,NOUN_CHUNK,NOUN_CHUNK
+Recognized subspecialties,include,clinical cardiac electrophysiology,NOUN_CHUNK,NOUN_CHUNK
+adult cardiologists,make,average,NOUN_CHUNK,NOUN_CHUNK
+procedures,include,therapeutic methods,NOUN_CHUNK,NOUN_CHUNK
+Vascular disorders,cause,significant morbidity,NOUN_CHUNK,NOUN_CHUNK
+baby,are,ventricular septal defect,NOUN_CHUNK,NOUN_CHUNK
+pediatric cardiologists,make,average,NOUN_CHUNK,NOUN_CHUNK
+heart,has,numerous anatomical features,NOUN_CHUNK,NOUN_CHUNK
+cardiac examination,follows,standard structure,NOUN_CHUNK,NOUN_CHUNK
+High blood pressure,cause,symptoms,NOUN_CHUNK,NOUN_CHUNK
+Lifestyle factors,increase,risk,NOUN_CHUNK,NOUN_CHUNK
+Lifestyle changes,include,weight loss,NOUN_CHUNK,NOUN_CHUNK
+Up to three medications,control,blood pressure,CARDINAL,NOUN_CHUNK
+High blood pressure,affects,between 16 and 37%,NOUN_CHUNK,DATE
+Hypertension,increase,risk,NOUN_CHUNK,NOUN_CHUNK
+Secondary hypertension,has,different causes,NOUN_CHUNK,NOUN_CHUNK
+types,have,symptoms,NOUN_CHUNK,NOUN_CHUNK
+Extra beats,include,premature atrial contractions,NOUN_CHUNK,NOUN_CHUNK
+Supraventricular tachycardias,include,atrial fibrillation,NOUN_CHUNK,NOUN_CHUNK
+Ventricular arrhythmias,include,ventricular fibrillation,NOUN_CHUNK,NOUN_CHUNK
+Treatments,include,medications,NOUN_CHUNK,NOUN_CHUNK
+later group,have,significant effects,NOUN_CHUNK,NOUN_CHUNK
+Arrhythmia,affects,millions of people,NOUN_CHUNK,CARDINAL
+atrial fibrillation,affects,about 2% to 3%,NOUN_CHUNK,PERCENT
+complications,include,heart failure,NOUN_CHUNK,NOUN_CHUNK
+Risk factors,include,high blood pressure,NOUN_CHUNK,NOUN_CHUNK
+risks,include,depression,NOUN_CHUNK,NOUN_CHUNK
+underlying mechanism,involves,atherosclerosis,NOUN_CHUNK,NOUN_CHUNK
+Treatment,involves,measures,NOUN_CHUNK,NOUN_CHUNK
+Symptoms,include,loss,NOUN_CHUNK,NOUN_CHUNK
+common causes,include,major blood loss,NOUN_CHUNK,NOUN_CHUNK
+number,increase,risk,NOUN_CHUNK,NOUN_CHUNK
+U.S. television shows,portrayed,unrealistically high survival rates,NOUN_CHUNK,NOUN_CHUNK
+child,divided into,potential,NOUN_CHUNK,NOUN_CHUNK
+defects,need,treatment,NOUN_CHUNK,NOUN_CHUNK
+starting point,obtaining,medical history,NOUN_CHUNK,NOUN_CHUNK
+Electrophysiological procedures,include,electrocardiogram,ORG,NOUN_CHUNK
+Wallace Brigden,identified,cardiomyopathy,PERSON,NOUN_CHUNK
+Max Holzmann,recognized,sign,PERSON,NOUN_CHUNK
+The British Medical Association,has,range,ORG,NOUN_CHUNK
+The British Medical Association,shares,national bargaining rights,ORG,NOUN_CHUNK
+Members,receive,subscription,NOUN_CHUNK,NOUN_CHUNK
+The British Medical Association,has,number,ORG,NOUN_CHUNK
+Council,has,34 voting members,ORG,CARDINAL
+Junior Doctors Committee,representing,junior hospital doctors,ORG,NOUN_CHUNK
+Medical Students Committee,representing,medical students,ORG,NOUN_CHUNK
+Equality Diversity Committee,provides,guidance,NOUN_CHUNK,NOUN_CHUNK
+Equality and Diversity Committee,holds,two conferences,ORG,CARDINAL
+BMA House,traces,BMA House origins,ORG,ORG
+Barr,condemned,the National Health Insurance Bill,PERSON,ORG
+BMA,repeated,role,NOUN_CHUNK,NOUN_CHUNK
+Chairs,include,following,NOUN_CHUNK,NOUN_CHUNK
+Grants.the BMA,makes,grants,NOUN_CHUNK,NOUN_CHUNK
+logo,includes,stylised version,NOUN_CHUNK,NOUN_CHUNK
+Axel Cappelen,ligated,bleeding coronary artery,PERSON,NOUN_CHUNK
+Alfred Blalock,performed,successful palliative pediatric cardiac operation,PERSON,NOUN_CHUNK
+Russell Brock,used,specially designed dilator,PERSON,NOUN_CHUNK
+introduction,performed until,direct surgery,NOUN_CHUNK,NOUN_CHUNK
+four surgeons,carried out,successful operations,CARDINAL,NOUN_CHUNK
+Alexander Alexandrovich Vishnevsky,conducted,cardiac surgery,PERSON,NOUN_CHUNK
+Dr. John Carter Callaghan,performed,documented open heart surgery,NOUN_CHUNK,NOUN_CHUNK
+surgeon,open,heart,NOUN_CHUNK,NOUN_CHUNK
+machine,stopped,blood,NOUN_CHUNK,NOUN_CHUNK
+surgeons,developed after,limitations,NOUN_CHUNK,NOUN_CHUNK
+Dr. Lillehei,performed,series,NOUN_CHUNK,NOUN_CHUNK
+Nazih Zuhdi,performed,total intentional hemodilution open heart surgery,ORG,NOUN_CHUNK
+Soviet pathologist,transplanted,heart,NOUN_CHUNK,NOUN_CHUNK
+Barnard,performed,Heart transplant,ORG,NOUN_CHUNK
+Adrian Kantrowitz,performed,pediatric heart transplant,PERSON,NOUN_CHUNK
+Norman Shumway,performed,adult heart transplant,PERSON,NOUN_CHUNK
+advancement,reduced,mortality rates,NOUN_CHUNK,NOUN_CHUNK
+Clare Gerada,has,professional interests,PERSON,NOUN_CHUNK
+father,opened,single handed general practitioner practice,NOUN_CHUNK,NOUN_CHUNK
+Clare Gerada,started,work,PERSON,NOUN_CHUNK
+The Care Quality Commission,rated,service,ORG,NOUN_CHUNK
+cardiologist,killed,cardiologist,NOUN_CHUNK,NOUN_CHUNK
+Clare Gerada,debated,University College London Hospitals NHS Foundation Trust,PERSON,ORG
+large medical laboratory,accept,samples,NOUN_CHUNK,NOUN_CHUNK
+largest,do,tests,NOUN_CHUNK,NOUN_CHUNK
+Common clinical chemistry,tests,include:.Panel tests,NOUN_CHUNK,ORG
+Aranaz JM,ligados,Hospitalización,ORG,NOUN_CHUNK
+mediciones,esporádicas,presión arterial,NOUN_CHUNK,NOUN_CHUNK
+los,medicamentos,sanitarios,NOUN_CHUNK,NOUN_CHUNK
+pathologists,practice,anatomical clinical pathology,NOUN_CHUNK,NOUN_CHUNK
+overlap,includes,immunoassays,NOUN_CHUNK,NOUN_CHUNK
+residency,lasts,four years,NOUN_CHUNK,DATE
+pathologist,have,different colourings,NOUN_CHUNK,NOUN_CHUNK
+order,used in,correct diagnosis,NOUN_CHUNK,NOUN_CHUNK
+analysers,undergo,"daily, weekly and monthly maintenances..Cultures",NOUN_CHUNK,DATE
+big,use,culture media,NOUN_CHUNK,NOUN_CHUNK
+Intraoperative,neurophysiologic,monitoring:.In,ORG,NOUN_CHUNK
+Programs,expose,Programs fellows,NOUN_CHUNK,ORG
+The American Board of Psychiatry,provides,certification examination,ORG,NOUN_CHUNK
+The American Board of Psychiatry,provides,certification,ORG,NOUN_CHUNK
+The American Board of Psychiatry,certifies in,Evoked Potentials,ORG,NOUN_CHUNK
+cardiac surgery residency,comprises,4 6 years,NOUN_CHUNK,NOUN_CHUNK
+Multiple examinations,take,place,NOUN_CHUNK,NOUN_CHUNK
+cardiac surgeons,completed,general surgery,NOUN_CHUNK,NOUN_CHUNK
+direct entry format,provides,residents,NOUN_CHUNK,NOUN_CHUNK
+Residents,spend,time training,NOUN_CHUNK,NOUN_CHUNK
+The Royal College of Physicians and Surgeons of Canada,provides,year cardiac surgery fellowship,ORG,NOUN_CHUNK
+Norwegian surgeon Axel Cappelen,ligated,bleeding coronary artery,NORP,NOUN_CHUNK
+four surgeons,carried out,successful operations,CARDINAL,NOUN_CHUNK
+Charles Bailey,adopted,Souttar's method,PERSON,ORG
+Russell Brock,used,specially designed dilator,PERSON,NOUN_CHUNK
+introduction,performed until,direct surgery,NOUN_CHUNK,NOUN_CHUNK
+Soviet surgeon Aleksandr Aleksandrovich Vishnevskiy,conducted,cardiac surgery,NORP,NOUN_CHUNK
+patient,bypass,function,NOUN_CHUNK,NOUN_CHUNK
+C. Walton Lillehei,realized,successful series,PERSON,NOUN_CHUNK
+Nazih Zuhdi,performed,total intentional hemodilution open heart surgery,ORG,NOUN_CHUNK
+Nazih Zuhdi,performed,Oklahoma's first successful heart transplant,ORG,GPE
+development,reduced,mortality rates,NOUN_CHUNK,NOUN_CHUNK
+Infection,represents,primary non - cardiac complication,NOUN_CHUNK,NOUN_CHUNK
+Infections,include,mediastinitis,NOUN_CHUNK,NOUN_CHUNK
+Lung volume reduction surgery,improve,quality,NOUN_CHUNK,NOUN_CHUNK
+participation,is,risk,NOUN_CHUNK,NOUN_CHUNK
+complication,delays,chest tube removal,NOUN_CHUNK,NOUN_CHUNK
+use,shown to,incidence,NOUN_CHUNK,NOUN_CHUNK
+clinics,retain,clinic,NOUN_CHUNK,NOUN_CHUNK
+owners,have,formal medical education,NOUN_CHUNK,NOUN_CHUNK
+traditional clinics,provide,ayurvedic medicine,NOUN_CHUNK,NOUN_CHUNK
+polyclinics,contain,outpatient departments,NOUN_CHUNK,NOUN_CHUNK
+India,set up,huge numbers,GPE,NOUN_CHUNK
+clinics,be,government funded private medical practices,NOUN_CHUNK,NOUN_CHUNK
+free clinic,provides,free low cost healthcare,NOUN_CHUNK,NOUN_CHUNK
+general patient clinic,offers,general diagnoses,NOUN_CHUNK,NOUN_CHUNK
+polyclinic,provides,range,NOUN_CHUNK,NOUN_CHUNK
+specialist clinic,provides,advanced diagnostic treatment services,NOUN_CHUNK,NOUN_CHUNK
+ultrasound clinic,offers,medical ultrasound investigations,NOUN_CHUNK,NOUN_CHUNK
+Christian Medical College & Hospital,has,extensive roadside dispensaries,ORG,NOUN_CHUNK
+Kramer,gets,vanity plate,PERSON,NOUN_CHUNK
+CFPC,uses,English,NOUN_CHUNK,LANGUAGE
+CFPC,establishes,standards,NOUN_CHUNK,NOUN_CHUNK
+College,obtained,College current,NOUN_CHUNK,NOUN_CHUNK
+Continuing professional CFPC,has,numerous opportunities,NOUN_CHUNK,NOUN_CHUNK
+CFPC,hosts,the Family Medicine Forum,NOUN_CHUNK,ORG
+conference,offers,hundreds of clinical and professional development sessions for family physicians over three days in November,NOUN_CHUNK,CARDINAL
+CFPC,released,list,NOUN_CHUNK,NOUN_CHUNK
+Clinician scholar program,involves,completion,NOUN_CHUNK,NOUN_CHUNK
+medical schools,have,student interest groups,NOUN_CHUNK,NOUN_CHUNK
+activities,take,place,NOUN_CHUNK,NOUN_CHUNK
+health practitioners,continued,health practitioners,NOUN_CHUNK,NOUN_CHUNK
+pharmaceutical industry,developed,guidelines,NOUN_CHUNK,NOUN_CHUNK
+CFPC,requires,250 credit-hours,NOUN_CHUNK,CARDINAL
+province,requires,documentation,NOUN_CHUNK,NOUN_CHUNK
+members,classified as,published research,NOUN_CHUNK,NOUN_CHUNK
+CME,maintains,Registry,ORG,NOUN_CHUNK
+Registry,included,320 professionals,NOUN_CHUNK,CARDINAL
+Industry sponsored CMEs,violate,federal statutes,NOUN_CHUNK,NOUN_CHUNK
+countries,developed,mass vaccination campaigns,NOUN_CHUNK,NOUN_CHUNK
+Management,involves,treatment,NOUN_CHUNK,NOUN_CHUNK
+animals,known to,virus,NOUN_CHUNK,NOUN_CHUNK
+medical scientists,reported,evidence,NOUN_CHUNK,NOUN_CHUNK
+structural proteins,include,membrane glycoprotein,NOUN_CHUNK,NOUN_CHUNK
+structure,resembles,sugar transporter,NOUN_CHUNK,NOUN_CHUNK
+COVID-19,affect,upper respiratory tract,NOUN_CHUNK,NOUN_CHUNK
+people,have,classical serum biomarkers,NOUN_CHUNK,NOUN_CHUNK
+Multiple viral host factors,affect,pathogenesis,NOUN_CHUNK,NOUN_CHUNK
+S protein,includes,two subunits,NOUN_CHUNK,CARDINAL
+S1,determines,virus host range,NOUN_CHUNK,NOUN_CHUNK
+clinical studies,proven,susceptibility,NOUN_CHUNK,NOUN_CHUNK
+effects,cause,majority,NOUN_CHUNK,NOUN_CHUNK
+cytokine storm,causes,acute respiratory distress syndrome,NOUN_CHUNK,NOUN_CHUNK
+guidelines,recommend,medication,NOUN_CHUNK,NOUN_CHUNK
+Methods,include,quarantines,NOUN_CHUNK,NOUN_CHUNK
+Health agencies,issued,detailed instructions,NOUN_CHUNK,NOUN_CHUNK
+Face coverings,limit,volume travel distance,NOUN_CHUNK,NOUN_CHUNK
+10% to 20%,associated with,symptoms,PERCENT,NOUN_CHUNK
+Infected people,reported,cyclical bouts,NOUN_CHUNK,NOUN_CHUNK
+Complications,include,pneumonia,NOUN_CHUNK,NOUN_CHUNK
+Cardiovascular complications,include,heart failure,NOUN_CHUNK,NOUN_CHUNK
+majority,performed,lung abnormalities,NOUN_CHUNK,NOUN_CHUNK
+mortality rate,reflects,number,NOUN_CHUNK,NOUN_CHUNK
+mortality rate,reflects,prevalence,NOUN_CHUNK,NOUN_CHUNK
+CFR,reflects,number,NOUN_CHUNK,NOUN_CHUNK
+the World Health Organization,reported,estimates,ORG,NOUN_CHUNK
+Antibody testing,suggested,IFR,NOUN_CHUNK,NOUN_CHUNK
+the U.S. Center for Disease Control & Prevention,reported,preliminary estimates,ORG,NOUN_CHUNK
+Early reviews,showed,gendered impact,NOUN_CHUNK,NOUN_CHUNK
+government,tracking,sex related data,NOUN_CHUNK,NOUN_CHUNK
+Similar issues,affect,Native American and Latino communities,NOUN_CHUNK,NORP
+89%,had,preexisting conditions,PERCENT,NOUN_CHUNK
+Tedros Adhanom,explained,CO,PERSON,NOUN_CHUNK
+study,reported,earliest date,NOUN_CHUNK,NOUN_CHUNK
+Official publications,reported,earliest onset,NOUN_CHUNK,NOUN_CHUNK
+Wuhan Central Hospital,sent,bronchoalveolar lavage fluid BAL sample,ORG,NOUN_CHUNK
+the Wuhan Municipal Health Commission,issued,notice,ORG,NOUN_CHUNK
+China,reported,nearly 140 new cases,GPE,CARDINAL
+Italy,overtook,China,GPE,GPE
+the United States,overtaken,China,GPE,GPE
+pets,catch,Zika virus,NOUN_CHUNK,PERSON
+Symptoms,include,respiratory,NOUN_CHUNK,NOUN_CHUNK
+Multiple countries,identified,infected animals,NOUN_CHUNK,NOUN_CHUNK
+Denmark,ordered,slaughter,GPE,NOUN_CHUNK
+France,banned,use,GPE,NOUN_CHUNK
+the U.S. Food and Drug Administration,issued,emergency use authorization,ORG,NOUN_CHUNK
+Cochrane review,found,insufficient evidence,NOUN_CHUNK,NOUN_CHUNK
+Treatment,"guidelines.""JHMI",Clinical Recommendations,NOUN_CHUNK,NOUN_CHUNK
+Proper cytopathology technique,takes,time,NOUN_CHUNK,NOUN_CHUNK
+Cytotechnologists,assist,clinicians,NOUN_CHUNK,NOUN_CHUNK
+Breast cytology,concerning,female breast,NOUN_CHUNK,NOUN_CHUNK
+Vaginal cytology,concerning,non - human mammals,NOUN_CHUNK,NOUN_CHUNK
+Dentistry,encompasses,practices,NOUN_CHUNK,NOUN_CHUNK
+Dentists,prescribe,medications,NOUN_CHUNK,NOUN_CHUNK
+Oral infections,affect,overall health,NOUN_CHUNK,NOUN_CHUNK
+oral health,referred to,systemic health,NOUN_CHUNK,NOUN_CHUNK
+1878 British Dentists Act,limited,title,NOUN_CHUNK,NOUN_CHUNK
+Dentists,complete,between five and eight years,NOUN_CHUNK,DATE
+Special,needs,dentistry,NOUN_CHUNK,NOUN_CHUNK
+Examination,reveals,early attempts,NOUN_CHUNK,NOUN_CHUNK
+Egyptians,bound,replacement teeth,NOUN_CHUNK,NOUN_CHUNK
+Fauchard,introduced,dental fillings,ORG,NOUN_CHUNK
+the Occupational Safety and Health Administration,places,limitation,ORG,NOUN_CHUNK
+United States,experiencing,national shortage,GPE,NOUN_CHUNK
+study,reported,fewer than 3.4 dermatologists,NOUN_CHUNK,CARDINAL
+dermatologists,complete,fellowships,NOUN_CHUNK,NOUN_CHUNK
+dermatologists,perform,cosmetic procedures,NOUN_CHUNK,NOUN_CHUNK
+dermatologists,limit,dermatologists cosmetic practice,NOUN_CHUNK,NOUN_CHUNK
+dermatologist,complete,one year,NOUN_CHUNK,DATE
+field,encompasses,complex diseases,NOUN_CHUNK,NOUN_CHUNK
+dermatologist,adapted,procedure,NOUN_CHUNK,NOUN_CHUNK
+dermatologists,have,best understanding,NOUN_CHUNK,NOUN_CHUNK
+National Board,conducts,National Board (DrNB) postgraduate and postdoctoral programmes,ORG,ORG
+the Ministry of Health and Family Welfare,issued,notification,ORG,NOUN_CHUNK
+subspecialties,changed to,postdoctoral fellowship programme,NOUN_CHUNK,NOUN_CHUNK
+specialty,fulfills,requirements,NOUN_CHUNK,NOUN_CHUNK
+Hurricane Andrew,struck,Florida,EVENT,GPE
+the Disaster Information Management Research Center,provides,specialized database,ORG,NOUN_CHUNK
+Principles,suggest,distribution,NOUN_CHUNK,NOUN_CHUNK
+Procedural systems,emphasize,certain patterns,NOUN_CHUNK,NOUN_CHUNK
+Clara Barton,starts,organization,PERSON,NOUN_CHUNK
+President Franklin Roosevelt,makes,public request,NOUN_CHUNK,NOUN_CHUNK
+The North Atlantic Treaty Organization,publishes,official disaster medicine manual,ORG,NOUN_CHUNK
+Schaeffer.1984 United States Public Health Service,forms,federal disaster medical response team,NOUN_CHUNK,NOUN_CHUNK
+Healthcare professionals,join,discussion group,ORG,NOUN_CHUNK
+The University of New Mexico,creates,the Center for Disaster Medicine,ORG,ORG
+"The September 11, 2001 attacks on the World Trade Center",cause,largest loss,EVENT,NOUN_CHUNK
+HSPD-5,mandates,creation,NOUN_CHUNK,NOUN_CHUNK
+terrorism.2004 Hurricanes Charlie,batter,state,NOUN_CHUNK,NOUN_CHUNK
+the Institute of Medicine,publishes,three reports,ORG,CARDINAL
+internal dysfunctions,produce,variety,NOUN_CHUNK,NOUN_CHUNK
+broader sense,includes,injuries,NOUN_CHUNK,NOUN_CHUNK
+idiopathic disease,has,unknown cause,NOUN_CHUNK,NOUN_CHUNK
+aspects,include,lethargy,NOUN_CHUNK,NOUN_CHUNK
+health insurance policies,define,medical condition,NOUN_CHUNK,NOUN_CHUNK
+term,excludes,infections,NOUN_CHUNK,NOUN_CHUNK
+the World Health Organization's Social Determinants Council,recognizes,Social determinants,ORG,NOUN_CHUNK
+language habit,cause,confusion,NOUN_CHUNK,NOUN_CHUNK
+Infectious diseases,comprise,clinically evident illness,NOUN_CHUNK,NOUN_CHUNK
+Common treatments,include,medications,NOUN_CHUNK,NOUN_CHUNK
+Epidemiologists,study,interaction,NOUN_CHUNK,NOUN_CHUNK
+different groups,use,significantly different definitions,NOUN_CHUNK,NOUN_CHUNK
+different researchers,report,different numbers,NOUN_CHUNK,NOUN_CHUNK
+obesity,represent,wealth,NOUN_CHUNK,NOUN_CHUNK
+Sickness,confers,social legitimization,NOUN_CHUNK,NOUN_CHUNK
+identification,have,significant social economic implications,NOUN_CHUNK,NOUN_CHUNK
+controversial recognition,had,number,NOUN_CHUNK,NOUN_CHUNK
+Social standing,affect,health,NOUN_CHUNK,NOUN_CHUNK
+cancer patients,treat,loss,NOUN_CHUNK,NOUN_CHUNK
+Authors,used,tuberculosis,NOUN_CHUNK,NOUN_CHUNK
+field,includes,effect,NOUN_CHUNK,NOUN_CHUNK
+The ECHM-EDTC Educational and Training Standards for Diving and Hyperbaric Medicine,specify,following scope,ORG,NOUN_CHUNK
+The ECHM-EDTC Educational and Training Standards for Diving and Hyperbaric Medicine,specify,following scope,ORG,NOUN_CHUNK
+Studies,shown,Studies,NOUN_CHUNK,NOUN_CHUNK
+use,influence,fitness,NOUN_CHUNK,NOUN_CHUNK
+/UHMS Physicians,Training,Course,NOUN_CHUNK,NOUN_CHUNK
+Subject matter,includes,Basic physics,NOUN_CHUNK,NOUN_CHUNK
+The Accreditation Council for Graduate Medical Education,offer,12 month programs,ORG,DATE
+Level 2D. Diving Medicine Physician,minimum,80 teaching hours,NOUN_CHUNK,CARDINAL
+DMP,have,knowledge,NOUN_CHUNK,NOUN_CHUNK
+DMP DMP,have,certified skills,NOUN_CHUNK,NOUN_CHUNK
+Hyperbaric Medicine Physician,minimum,120 teaching hours,NOUN_CHUNK,TIME
+Überdruckmedizin e. V. German standards,include,Medical Examiner of Divers,NOUN_CHUNK,ORG
+Swiss standards,include,Medical Examiner of Divers,NORP,ORG
+Hyperbarmedizin Austrian standards,include,Medical Examiner of Divers,NOUN_CHUNK,ORG
+The South African Department of Employment,registers,two levels,ORG,CARDINAL
+Offshore diving contractors,follow,IMCA recommendations,NOUN_CHUNK,NOUN_CHUNK
+curriculum,covers,wide range,NOUN_CHUNK,NOUN_CHUNK
+curriculum,covers,wide range,NOUN_CHUNK,NOUN_CHUNK
+South Pacific Underwater Medicine Society,offers,Diploma of Diving and Hyperbaric Medicine,ORG,ORG
+Osteopathic physicians,constitute,11%,NOUN_CHUNK,PERCENT
+graduates,attend,graduate medical education programs,NOUN_CHUNK,NOUN_CHUNK
+medical school accreditation standards,require,training,NOUN_CHUNK,NOUN_CHUNK
+Osteopathic physicians,constitute,11%,NOUN_CHUNK,PERCENT
+graduates,attend,graduate medical education programs,NOUN_CHUNK,NOUN_CHUNK
+medical school accreditation standards,require,training,NOUN_CHUNK,NOUN_CHUNK
+holders,use,post - nominal letters,NOUN_CHUNK,NOUN_CHUNK
+candidate,defend,work,NOUN_CHUNK,NOUN_CHUNK
+Universities,award,types,NOUN_CHUNK,NOUN_CHUNK
+the European Universities Association,defined,"the ""Salzburg Principles",ORG,ORG
+basic faculty,awarded,intermediate degrees,NOUN_CHUNK,NOUN_CHUNK
+The University of London,introduced,DSc,ORG,NOUN_CHUNK
+reforms,transformed,the Faculty of Philosophy or Arts,NOUN_CHUNK,ORG
+Harvard,building,major graduate programs,ORG,NOUN_CHUNK
+leading universities,set up,network,NOUN_CHUNK,NOUN_CHUNK
+student,required for,Honours degree,NOUN_CHUNK,NOUN_CHUNK
+universities,require,coursework,NOUN_CHUNK,NOUN_CHUNK
+individual universities,specify,additional requirements,NOUN_CHUNK,NOUN_CHUNK
+PhD candidates,spend,entire study period,WORK_OF_ART,NOUN_CHUNK
+PhD candidates,spend,periods,WORK_OF_ART,NOUN_CHUNK
+faculty members,seen as,direction,NOUN_CHUNK,NOUN_CHUNK
+articles,examined,issue,NOUN_CHUNK,NOUN_CHUNK
+admission,requires,completion,NOUN_CHUNK,NOUN_CHUNK
+candidate,demonstrate,truthful original contributions,NOUN_CHUNK,NOUN_CHUNK
+Australian students,have,sources,NORP,NOUN_CHUNK
+Australian PhD programs,have,required coursework component,NOUN_CHUNK,NOUN_CHUNK
+Admission,requires,completion,NOUN_CHUNK,NOUN_CHUNK
+application package,includes,research proposal,NOUN_CHUNK,NOUN_CHUNK
+successful completion,permits,continuance,NOUN_CHUNK,NOUN_CHUNK
+PhD students,receive,award,NOUN_CHUNK,NOUN_CHUNK
+programs,require,PhD candidates,NOUN_CHUNK,NOUN_CHUNK
+student,required that,comprehensive exams,NOUN_CHUNK,NOUN_CHUNK
+PhD course admission,require,master degree,NOUN_CHUNK,NOUN_CHUNK
+candidate,find,funding,NOUN_CHUNK,NOUN_CHUNK
+company,hires,candidate,NOUN_CHUNK,NOUN_CHUNK
+standard PhD,completed in,Bologna process,NOUN_CHUNK,NOUN_CHUNK
+candidate,undergoes,oral examination,NOUN_CHUNK,NOUN_CHUNK
+Denmark,introduced,Dr. Phil(os,GPE,NOUN_CHUNK
+Denmark,introduced,American style PhD,GPE,NOUN_CHUNK
+candidates,complete,two trial lectures,NOUN_CHUNK,CARDINAL
+university diploma,granted by,force,NOUN_CHUNK,NOUN_CHUNK
+The Ministry of Science,keeps,a National Registry of Theses called,ORG,LAW
+UK universities,abbreviate,UK universities,NOUN_CHUNK,NOUN_CHUNK
+US students,undergo,series,GPE,NOUN_CHUNK
+candidate,undergoes,oral examination,NOUN_CHUNK,NOUN_CHUNK
+US universities,awarded,"8,611 PhD diplomas",GPE,CARDINAL
+PhD students,receive,tuition waiver,NOUN_CHUNK,NOUN_CHUNK
+second doctorate,constitutes,higher qualification,NOUN_CHUNK,NOUN_CHUNK
+countries,have,higher numbers,NOUN_CHUNK,NOUN_CHUNK
+medical degrees,received,legal sanction,NOUN_CHUNK,NOUN_CHUNK
+students,complete,residency,NOUN_CHUNK,NOUN_CHUNK
+Kabul medical institute,certified,students,NOUN_CHUNK,NOUN_CHUNK
+universities,renamed,universities,NOUN_CHUNK,NOUN_CHUNK
+medical studies,take,6 years,NOUN_CHUNK,DATE
+the first two years,comprise,basic fields,DATE,NOUN_CHUNK
+MDs,use,doctor,NOUN_CHUNK,NOUN_CHUNK
+duration,takes,4 years,NOUN_CHUNK,DATE
+Public universities,cost,"around US$8,000 - US$12,000",NOUN_CHUNK,MONEY
+students,obtain,professional title,NOUN_CHUNK,NOUN_CHUNK
+physicians,viewed as,courtesy denomination,NOUN_CHUNK,NOUN_CHUNK
+prestigious research universities,offer,program,NOUN_CHUNK,NOUN_CHUNK
+private public university,select,private public university candidates,NOUN_CHUNK,NOUN_CHUNK
+students,obtain,degree,NOUN_CHUNK,NOUN_CHUNK
+Université René Descartes,welcomes,"about 2,000 students",NOUN_CHUNK,CARDINAL
+medical students,get,special status,NOUN_CHUNK,NOUN_CHUNK
+Med students,get,five weeks,NOUN_CHUNK,DATE
+French medical students,receive,a State Diploma of Doctor of Medicine,NORP,ORG
+students,receive,Diploma of Complementary Specialized Studies,NOUN_CHUNK,ORG
+About 60%,obtain,academic degree,PERCENT,NOUN_CHUNK
+Lincoln American University,provides,medicine programs,ORG,NOUN_CHUNK
+Tel Aviv University,introduced,year program,ORG,NOUN_CHUNK
+Approximately 30%,pass,Mor Mirkam tests,PERCENT,NOUN_CHUNK
+licensed Physician,has,option,NOUN_CHUNK,NOUN_CHUNK
+title,доктор,медицинских наук,NOUN_CHUNK,NOUN_CHUNK
+Tel Aviv University,has,medical school,ORG,NOUN_CHUNK
+the Yong Loo Lin School of Medicine,confers,MB BS,ORG,ORG
+the Jessenius School of Medicine,have,international students,ORG,NOUN_CHUNK
+the Jessenius School of Medicine,has,almost a thousand international students,ORG,CARDINAL
+student,is,gymnasium grammar school,NOUN_CHUNK,NOUN_CHUNK
+Thai medical education,follows,6-year European system,NOUN_CHUNK,NOUN_CHUNK
+medical students,pass,national medical licensing examinations,NOUN_CHUNK,NOUN_CHUNK
+medical students,receive,degree,NOUN_CHUNK,NOUN_CHUNK
+student,gets,status,NOUN_CHUNK,NOUN_CHUNK
+five years university education,awarded upon,three years basic sciences,DATE,DATE
+American MD,have,identical titles,NOUN_CHUNK,NOUN_CHUNK
+Public Universities,offer,degree,NOUN_CHUNK,NOUN_CHUNK
+Government,recognised,FCPS qualification,NOUN_CHUNK,NOUN_CHUNK
+the National Board of Examinations,awards,DNB degree,ORG,NOUN_CHUNK
+universities,offering,MD,NOUN_CHUNK,NOUN_CHUNK
+MD degree holder,certified as,2–4 years,NOUN_CHUNK,DATE
+MD degree,requires,between four and six years,NOUN_CHUNK,DATE
+Commonwealth institutions,retain,The MD,NOUN_CHUNK,ORG
+Students,finish,the 3 years,NOUN_CHUNK,DATE
+medical students,receive,six years,NOUN_CHUNK,DATE
+Medical students,receive,three years,NOUN_CHUNK,DATE
+the National Board of Health and Welfare,requires,minimum,ORG,NOUN_CHUNK
+basic medical qualification,is,degree,NOUN_CHUNK,NOUN_CHUNK
+medical schools,award,degree,NOUN_CHUNK,NOUN_CHUNK
+the West African College of Physicians,award,Fellowship,ORG,NOUN_CHUNK
+MDs,attend,MD,NOUN_CHUNK,GPE
+Leading causes,included,cardiovascular disease,NOUN_CHUNK,NOUN_CHUNK
+Hugh R. Leavell,coined,term primary prevention,PERSON,NOUN_CHUNK
+poor diet,surpass,tobacco,NOUN_CHUNK,NOUN_CHUNK
+leading causes,share,similar trends,NOUN_CHUNK,NOUN_CHUNK
+Ninety to 95 percent,have,type 2 diabetes,PERCENT,NOUN_CHUNK
+Prevention,include,exercise,NOUN_CHUNK,NOUN_CHUNK
+Low middle income countries,share,majority,NOUN_CHUNK,NOUN_CHUNK
+carcinogens,include,asbestos radioactive materials,NOUN_CHUNK,NOUN_CHUNK
+cessation techniques,include,group support programs,NOUN_CHUNK,NOUN_CHUNK
+Studies,shown,long term success rates,NOUN_CHUNK,NOUN_CHUNK
+Legislation,affect,smoking prevention,NOUN_CHUNK,NOUN_CHUNK
+Cervical cancer,ranks among,sub Saharan Africa,NOUN_CHUNK,NOUN_CHUNK
+methods,include,fecal occult blood testing,NOUN_CHUNK,NOUN_CHUNK
+study,revealed,health disparities,NOUN_CHUNK,NOUN_CHUNK
+positive lifestyle choices,is,investment,NOUN_CHUNK,NOUN_CHUNK
+Cohen et al,outlined,arguments,PERSON,NOUN_CHUNK
+obesity,impairs,cognitive achievement,NOUN_CHUNK,NOUN_CHUNK
+obese children,increased,health care expenses,NOUN_CHUNK,NOUN_CHUNK
+effect,affect,obese children contributions,NOUN_CHUNK,NOUN_CHUNK
+interventions,suggested that,additional effect,NOUN_CHUNK,NOUN_CHUNK
+Services,reduce,morbidity,NOUN_CHUNK,NOUN_CHUNK
+health assessments screenings,cost,savings potential,NOUN_CHUNK,NOUN_CHUNK
+Preventive care,transcends,demographics,NOUN_CHUNK,NOUN_CHUNK
+The National Network of Perinatal Quality Collaboratives,supports,state based perinatal quality collaboratives,ORG,NOUN_CHUNK
+state based perinatal quality collaboratives,contributed to,reductions,NOUN_CHUNK,NOUN_CHUNK
+Telehealth,realized,significant growth,NOUN_CHUNK,NOUN_CHUNK
+Policy actions,guarantee,utilization,NOUN_CHUNK,NOUN_CHUNK
+Inputs,have,significant effects,NOUN_CHUNK,NOUN_CHUNK
+childhood vaccines,demonstrate,high return,NOUN_CHUNK,NOUN_CHUNK
+Indirect costs,costs,billions of dollars,NOUN_CHUNK,MONEY
+United States,employs,public health policy efforts,GPE,NOUN_CHUNK
+states,employ,physical education requirement,NOUN_CHUNK,NOUN_CHUNK
+advertisements,received,attention,NOUN_CHUNK,NOUN_CHUNK
+18 states,allow,exemptions,CARDINAL,NOUN_CHUNK
+DOI names,identify,creative works,NOUN_CHUNK,NOUN_CHUNK
+registries,include,Crossref,NOUN_CHUNK,ORG
+the International DOI Foundation,oversees,integration,ORG,NOUN_CHUNK
+the Handle System,have,approach,ORG,NOUN_CHUNK
+document,used as,two URLs,NOUN_CHUNK,CARDINAL
+DOI resolvers,consult,open access resources,NOUN_CHUNK,NOUN_CHUNK
+IDF,holds,annual open meetings,NOUN_CHUNK,DATE
+Registration agencies,provide,services,NOUN_CHUNK,NOUN_CHUNK
+Digital Object Identifier System,met,ISO requirements,ORG,NOUN_CHUNK
+relevant ISO Working Group,submitted,edited version,NOUN_CHUNK,NOUN_CHUNK
+Canada southern and western border,is,"8,891 kilometres",GPE,QUANTITY
+Canada,ranks among,civil liberties,GPE,NOUN_CHUNK
+Canada's long relationship,had,significant impact,GPE,NOUN_CHUNK
+Canada,has,income,GPE,NOUN_CHUNK
+characteristics,included,permanent settlements,NOUN_CHUNK,NOUN_CHUNK
+attempts,reached,climax,NOUN_CHUNK,NOUN_CHUNK
+European,believed that,east coast,NORP,NOUN_CHUNK
+Sir Humphrey Gilbert,founded,"St. John's, Newfoundland",NOUN_CHUNK,GPE
+French,established,French seasonal trading post,NOUN_CHUNK,NOUN_CHUNK
+Canadiens,settled,Saint Lawrence River valley,NORP,NOUN_CHUNK
+English,established,additional settlements,NOUN_CHUNK,NOUN_CHUNK
+The Durham Report,recommended,responsible government,ORG,NOUN_CHUNK
+The Act of Union 1840,merged,Canadas,ORG,NOUN_CHUNK
+The Alaska Purchase,established,border,ORG,NOUN_CHUNK
+the British North America Act 1867,proclaimed,Canadian Confederation,ORG,ORG
+parliament,created,the Yukon Territory,NOUN_CHUNK,GPE
+Indigenous peoples,saw,widespread famine,NOUN_CHUNK,NOUN_CHUNK
+responsible government,provide,emergency relief,NOUN_CHUNK,NOUN_CHUNK
+Britain,maintained,control,GPE,NOUN_CHUNK
+The Great Depression,saw,economic downturn,EVENT,NOUN_CHUNK
+Co - operative Commonwealth Federation,introduced,elements,NOUN_CHUNK,NOUN_CHUNK
+delay,underscored,Canada's independence,NOUN_CHUNK,GPE
+Canadian troops,played,important roles,NORP,NOUN_CHUNK
+Canada,provided,asylum,GPE,NOUN_CHUNK
+Canada,finished,war,GPE,NOUN_CHUNK
+series,resulted in,patriation,NOUN_CHUNK,NOUN_CHUNK
+Canada,established,complete sovereignty,GPE,NOUN_CHUNK
+number,shook,Canadian society,NOUN_CHUNK,NORP
+Canada,joined,successful American War,GPE,NOUN_CHUNK
+new country,encompasses,"9,984,670 km2",NOUN_CHUNK,QUANTITY
+Canada,has,vast maritime terrain,GPE,NOUN_CHUNK
+five marine ecozones,encompass,"over 80,000 classified species",CARDINAL,CARDINAL
+Canada's first National Park,spans,"6,641 square kilometres",GPE,QUANTITY
+snow,cover,ground,NOUN_CHUNK,NOUN_CHUNK
+British Columbia's,has,temperate climate,GPE,NOUN_CHUNK
+Peace,founding,principles,NOUN_CHUNK,NOUN_CHUNK
+good government,called by,confidence vote,NOUN_CHUNK,NOUN_CHUNK
+the Canada Elections Act,held,this to four years,LAW,DATE
+age 75.Canada federal structure,The 105 members of,government responsibilities,NOUN_CHUNK,NOUN_CHUNK
+minister,utilize,Statistics Canada agency,NOUN_CHUNK,NOUN_CHUNK
+The Bank of Canada,issued by,Canadian coins,ORG,NORP
+The Constitution Act,affirmed,governance,LAW,NOUN_CHUNK
+federal Cabinet,appoints,justices,NOUN_CHUNK,NOUN_CHUNK
+Canadian Aboriginal law,provides,certain constitutionally recognized rights,NORP,NOUN_CHUNK
+Canada's peacekeeping role,played,major role,GPE,NOUN_CHUNK
+Canada,maintains,historic ties,GPE,NOUN_CHUNK
+Canada,deployed,troops,GPE,NOUN_CHUNK
+Russia,employs,professional volunteer military force,GPE,NOUN_CHUNK
+Canada's military expenditure,totalled,billion,GPE,CARDINAL
+good government,announced,70 percent increase,NOUN_CHUNK,NOUN_CHUNK
+The Canadian Forces,acquire,88 fighter planes,ORG,CARDINAL
+Canada's military,has,3000 personnel,GPE,NOUN_CHUNK
+provinces,collect,revenue,NOUN_CHUNK,NOUN_CHUNK
+changes,require,constitutional amendment,NOUN_CHUNK,NOUN_CHUNK
+Canadian trade,reached,trillion,NORP,CARDINAL
+Canada,had,trade deficit,GPE,NOUN_CHUNK
+growth,transformed,Russia,NOUN_CHUNK,GPE
+The Automotive Products Trade Agreement,opened,Canada's borders,ORG,GPE
+Canada,has,strong cooperative banking sector,GPE,NOUN_CHUNK
+Canada,spent,CA$34.5 billion,GPE,PRODUCT
+new country,produced,fifteen Nobel laureates,NOUN_CHUNK,CARDINAL
+2016 Canadian Census,enumerated,total population,NOUN_CHUNK,NOUN_CHUNK
+Canada,has,one of the highest per,GPE,CARDINAL
+Canadian public,support,current level,NOUN_CHUNK,NOUN_CHUNK
+Canada,experiencing,cost increase,GPE,NOUN_CHUNK
+Canada,has,one,GPE,CARDINAL
+Canada,has,large number,GPE,NOUN_CHUNK
+Canada,spends,about 5.3 percent,GPE,PERCENT
+just over 7.3 million Canadians,listed,non - official language,CARDINAL,NOUN_CHUNK
+Canada's federal government,practices,official bilingualism,GPE,NOUN_CHUNK
+English,have,equal status,NORP,NOUN_CHUNK
+provinces,have,official languages,NOUN_CHUNK,NOUN_CHUNK
+French,has,legal status,NORP,NOUN_CHUNK
+Indigenous languages,have,official status,NOUN_CHUNK,NOUN_CHUNK
+23.9 percent,declared,religious affiliation,PERCENT,NOUN_CHUNK
+Canada,placed,emphasis,GPE,NOUN_CHUNK
+Canadian comedians,achieved,international success,NOUN_CHUNK,NOUN_CHUNK
+Canada,has,developed media sector,GPE,NOUN_CHUNK
+penny,featured,maple leaf,NOUN_CHUNK,NOUN_CHUNK
+The Canadian Academy of Recording Arts and Sciences,presents,Canada's music industry awards,ORG,GPE
+Canadian Music Hall,honours,Canadian musicians,NOUN_CHUNK,NORP
+Canada,shares,major professional sports leagues,GPE,NOUN_CHUNK
+Canadian teams,include,seven franchises,NORP,CARDINAL
+popular professional sports,include,Canadian football,NOUN_CHUNK,NORP
+Canada,hosted,2015 Pan American Games,GPE,NOUN_CHUNK
+Specializations,include,behavioral endocrinology,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,thyroid hormone,NOUN_CHUNK,NOUN_CHUNK
+Griffin,identify,three different classes,PERSON,CARDINAL
+clinical specialty,involves,diagnostic evaluation,NOUN_CHUNK,NOUN_CHUNK
+second important aspect,distinguishing,human variation,NOUN_CHUNK,NOUN_CHUNK
+Typical training,involves,4 years,NOUN_CHUNK,DATE
+main article,See,study,NOUN_CHUNK,NOUN_CHUNK
+principal professional organizations,include,The Endocrine Society,NOUN_CHUNK,ORG
+sex pituitary hormones,used,complex methods,NOUN_CHUNK,NOUN_CHUNK
+German Karl Adolph von Basedow,reported,constellation,NOUN_CHUNK,NOUN_CHUNK
+Otto Loewi,incubated,frog heart,PERSON,NOUN_CHUNK
+Otto Loewi,won,the Nobel Prize,PERSON,WORK_OF_ART
+Sub specializations,include,disaster medicine,NOUN_CHUNK,NOUN_CHUNK
+emergency physician,requires,broad field,NOUN_CHUNK,NOUN_CHUNK
+family physicians,staff,emergency departments,NOUN_CHUNK,NOUN_CHUNK
+delay,defined as,likelihood,NOUN_CHUNK,NOUN_CHUNK
+patients,utilize,EDs,NOUN_CHUNK,NOUN_CHUNK
+common misconception,pegs,frequent ED visitors,NOUN_CHUNK,NOUN_CHUNK
+ED users,make up,small portion,NOUN_CHUNK,NOUN_CHUNK
+physician knowledge,improve,cost effective use,NOUN_CHUNK,NOUN_CHUNK
+EMTALA,holds,hospital,NOUN_CHUNK,NOUN_CHUNK
+mandate,provides,support,NOUN_CHUNK,NOUN_CHUNK
+physician,established,affirmative action,NOUN_CHUNK,NOUN_CHUNK
+One study,identified,error rate,CARDINAL,NOUN_CHUNK
+countries,develop,training programs,NOUN_CHUNK,NOUN_CHUNK
+International emergency medicine,provides,important global perspective,NOUN_CHUNK,NOUN_CHUNK
+Dual fellowship programs,add,one or more years,NOUN_CHUNK,CARDINAL
+attending physician,follow,supra specialty programme,NOUN_CHUNK,NOUN_CHUNK
+Emergency,begins,journey,NOUN_CHUNK,NOUN_CHUNK
+emergency physicians,outnumber,FRCP(EM physicians,NOUN_CHUNK,NOUN_CHUNK
+length,allows,time,NOUN_CHUNK,NOUN_CHUNK
+EM post - graduate training,took,place,NOUN_CHUNK,NOUN_CHUNK
+licensed physician,handled as,additional qualification,NOUN_CHUNK,NOUN_CHUNK
+private hospitals,providing,Emergency Medicine training,NOUN_CHUNK,NOUN_CHUNK
+The American Osteopathic Board of Emergency Medicine,certifies,emergency physicians,ORG,NOUN_CHUNK
+Specialty training,takes,six years,NOUN_CHUNK,DATE
+college,accredited,training,NOUN_CHUNK,NOUN_CHUNK
+Certificate courses,include,ACLS,NOUN_CHUNK,ORG
+House,diagnoses,heavy metal poisoning,ORG,NOUN_CHUNK
+The A.V. Club,gave,D+ rating,ORG,NOUN_CHUNK
+Family Practice,includes,section,NOUN_CHUNK,NOUN_CHUNK
+family nurse practitioner,provides,continuing comprehensive healthcare,NOUN_CHUNK,NOUN_CHUNK
+family nurse practitioner,select,sub specialty,NOUN_CHUNK,NOUN_CHUNK
+FNPs,deliver,range,NOUN_CHUNK,NOUN_CHUNK
+the American Board of Internal Medicine,approved,3-year combined fellowship training program,ORG,NOUN_CHUNK
+The John A. Hartford Foundation,funded,10 institutions,ORG,CARDINAL
+friendly society,is,mutual society,NOUN_CHUNK,NOUN_CHUNK
+friendly societies,provided,financial social services,NOUN_CHUNK,NOUN_CHUNK
+friendly societies,played,important,NOUN_CHUNK,NOUN_CHUNK
+The Museum of English Rural Life,has,collection,ORG,NOUN_CHUNK
+form,felt that,form,NOUN_CHUNK,NOUN_CHUNK
+Similar organisations,trading,businesses,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,co - operatives,NOUN_CHUNK,NOUN_CHUNK
+EHRs,include,range,NOUN_CHUNK,NOUN_CHUNK
+research literature,paints,realistic picture,NOUN_CHUNK,NOUN_CHUNK
+Digitization,facilitates,collection,NOUN_CHUNK,NOUN_CHUNK
+standardization,create,challenges,NOUN_CHUNK,NOUN_CHUNK
+Emergency medical services,introduced,use,NOUN_CHUNK,NOUN_CHUNK
+benefits,include,patient data sharing,NOUN_CHUNK,NOUN_CHUNK
+research traditions,see,EHR,NOUN_CHUNK,NOUN_CHUNK
+use,reduce,number,NOUN_CHUNK,NOUN_CHUNK
+implementation,decrease,identification time,NOUN_CHUNK,NOUN_CHUNK
+research,showed that,deficiencies,NOUN_CHUNK,NOUN_CHUNK
+physicians,embracing,mobile technologies,NOUN_CHUNK,NOUN_CHUNK
+Failure,create,costly time consuming interruptions,NOUN_CHUNK,NOUN_CHUNK
+personal information,includes,non - digital electronic form,NOUN_CHUNK,NOUN_CHUNK
+NHS Digital,said to,changes,ORG,NOUN_CHUNK
+International Organization for Standardization (ISO,settled,thorough word,ORG,NOUN_CHUNK
+majority,made,strategy,NOUN_CHUNK,NOUN_CHUNK
+the United States,imposed,mandatory medical data breach notifications,GPE,NOUN_CHUNK
+CEN's TC/251,provides,EHR standards,ORG,NOUN_CHUNK
+CONTSYS,supports,continuity,ORG,NOUN_CHUNK
+ISO – ISO TC,provides,international technical specifications,ORG,NOUN_CHUNK
+U.S. federal government,issued,new rules,NOUN_CHUNK,NOUN_CHUNK
+open community,Open specifications.openEHR,specification,NOUN_CHUNK,NOUN_CHUNK
+CDMs,use,relational model,NOUN_CHUNK,NOUN_CHUNK
+physician input interface,done so,previously utilized paper forms,NOUN_CHUNK,NOUN_CHUNK
+Customization,have,institution disadvantages,NOUN_CHUNK,NOUN_CHUNK
+Records,have,potential,ORG,NOUN_CHUNK
+Russia,launched,major project,GPE,NOUN_CHUNK
+the Unified Medical Information and Analytical System,connects,more than 660 clinics,ORG,CARDINAL
+89%,used,Practice Management System,PERCENT,NOUN_CHUNK
+YorDales Health Ltd,covers,17 practices,ORG,NOUN_CHUNK
+60%,had,GMS contract,PERCENT,NOUN_CHUNK
+Virtually doctor,had,personal contract,NOUN_CHUNK,NOUN_CHUNK
+BMA,formulated,Charter,NOUN_CHUNK,NOUN_CHUNK
+The 'Red Book' (Statement of Fees and Allowances,detailed,payment tariffs,ORG,NOUN_CHUNK
+GP Fundholding scheme,gave,budget,NOUN_CHUNK,NOUN_CHUNK
+practice,gets,share,NOUN_CHUNK,NOUN_CHUNK
+Main changes,included,named accountable GP,NOUN_CHUNK,NOUN_CHUNK
+GP practices,receive,85.35 per weighted patient under The 2015 Contract,NOUN_CHUNK,CARDINAL
+deal,guarantee,minimum 2 % uplift,NOUN_CHUNK,NOUN_CHUNK
+Richard Vautrey,described,changes,PERSON,NOUN_CHUNK
+health care professional health care body,enter,local contract,NOUN_CHUNK,NOUN_CHUNK
+Gastroenterologists,perform,number,ORG,NOUN_CHUNK
+Interventional gastroenterologists,undergo,an additional year,NOUN_CHUNK,DATE
+Hippocrates,attributed,digestion,NORP,NOUN_CHUNK
+German Johann von Zimmermann,wrote,important work,NORP,NOUN_CHUNK
+Maximilian Stoll,described,cancer,PERSON,NOUN_CHUNK
+Charles Emile Troisier,described,enlargement,PERSON,NOUN_CHUNK
+William Beaumont,published,Experiments and Observations on the Gastric Juice,PERSON,WORK_OF_ART
+Adolf Kussmaul,developed,gastroscope,PERSON,NOUN_CHUNK
+William Beaumont,perfected,technique,PERSON,NOUN_CHUNK
+Carl Stoerk,demonstrated,esophagoscope,PERSON,NOUN_CHUNK
+Karl Wilhelm von Kupffer,described,properties,PERSON,NOUN_CHUNK
+Hugo Kronecker,studied,oesophageal manometry,PERSON,NOUN_CHUNK
+Jesse McClendon,tested,acidity,PERSON,NOUN_CHUNK
+Walter Alvarez,did,electrogastrography research,PERSON,NOUN_CHUNK
+Rudolf Schindler,developed,semiflexible gastroscope,PERSON,NOUN_CHUNK
+Burrill Bernard Crohn,described,Crohn's disease,PERSON,PERSON
+Basil Hirschowitz,introduced,prototype,PERSON,NOUN_CHUNK
+1978 Alma Ata Declaration,set,intellectual foundation,NOUN_CHUNK,NOUN_CHUNK
+student,make,student,NOUN_CHUNK,NOUN_CHUNK
+student,replace,physicians,NOUN_CHUNK,NOUN_CHUNK
+huisarts,administers,first line,NOUN_CHUNK,ORDINAL
+patients,consult,hospital specialist,NOUN_CHUNK,NOUN_CHUNK
+GPs,have,specialist interest,NOUN_CHUNK,NOUN_CHUNK
+First and third year,takes,place,DATE,NOUN_CHUNK
+residents,get,one day,NOUN_CHUNK,DATE
+residents,take,national GP knowledge test,NOUN_CHUNK,NOUN_CHUNK
+General Practitioner,has,broad legal rights,NOUN_CHUNK,NOUN_CHUNK
+4 years training program,includes,core specialties,NOUN_CHUNK,NOUN_CHUNK
+trainee,training:.Two years of,rotation,NOUN_CHUNK,NOUN_CHUNK
+medical practitioner,complete,variety,NOUN_CHUNK,NOUN_CHUNK
+practical examination,takes,form,NOUN_CHUNK,NOUN_CHUNK
+doctor,complete,electronic portfolio,NOUN_CHUNK,NOUN_CHUNK
+Wales,abolished,charges,GPE,NOUN_CHUNK
+Recent reforms,included,changes,NOUN_CHUNK,NOUN_CHUNK
+North America,holds,different definition,LOC,NOUN_CHUNK
+Board certification agencies,increasing,Board certification agencies fees,NOUN_CHUNK,ORG
+General Practice of Canada,undergone,changes,ORG,NOUN_CHUNK
+new GPs,required in,Medicare rebates,NOUN_CHUNK,ORG
+programs,awarded,permanent unrestricted eligibility,NOUN_CHUNK,NOUN_CHUNK
+choices,include,Aboriginal,NOUN_CHUNK,NORP
+new graduates,complete,GPEP,NOUN_CHUNK,NOUN_CHUNK
+The Australian Government,increased,number,ORG,NOUN_CHUNK
+general surgeons,obtain,advanced training,NOUN_CHUNK,NOUN_CHUNK
+General surgeons,treat,wide variety,NOUN_CHUNK,NOUN_CHUNK
+General surgeons,perform,majority,NOUN_CHUNK,NOUN_CHUNK
+Transplanted organs,include,liver kidney pancreas rarely small bowel Surgical oncology,NOUN_CHUNK,NOUN_CHUNK
+cardiothoracic surgeons,complete,general surgery residency,NOUN_CHUNK,NOUN_CHUNK
+Pediatric surgeons,do,surgery,NOUN_CHUNK,NOUN_CHUNK
+surgical trainees,enter,training,NOUN_CHUNK,NOUN_CHUNK
+doctors,sit,examination,NOUN_CHUNK,NOUN_CHUNK
+surgeons,hold,title Mister,NOUN_CHUNK,NOUN_CHUNK
+term Primary Care,include,services,NOUN_CHUNK,NOUN_CHUNK
+patients,have,direct access,NOUN_CHUNK,NOUN_CHUNK
+The British Medical Association,conducted,survey,ORG,NOUN_CHUNK
+1 % deterioration,produce,10 % deterioration,NOUN_CHUNK,NOUN_CHUNK
+"2017 more than 1,061 practices",employing,pharmacists,CARDINAL,NOUN_CHUNK
+Northumbria Healthcare NHS Foundation Trust,taken over,multiple GP practices,ORG,NOUN_CHUNK
+40%,got,day appointment,PERCENT,NOUN_CHUNK
+The British Medical Association,demanded,increased funding,ORG,NOUN_CHUNK
+new GP contract,included,funding,NOUN_CHUNK,NOUN_CHUNK
+Previous health issues,produce,different constellation,NOUN_CHUNK,NOUN_CHUNK
+Smokers,consume,Smokers respiratory system reserve,NOUN_CHUNK,NOUN_CHUNK
+Elderly people,require,specific attention,NOUN_CHUNK,NOUN_CHUNK
+polypharmacy,increase,risk,NOUN_CHUNK,NOUN_CHUNK
+Charaka,described,fatigue,PERSON,NOUN_CHUNK
+number,studied,geriatrics,NOUN_CHUNK,NOUN_CHUNK
+Alexander,viewed,process,PERSON,NOUN_CHUNK
+works,describe,mental physical symptoms,NOUN_CHUNK,NOUN_CHUNK
+Theophilus Protospatharius,discussed,topic,PERSON,NOUN_CHUNK
+Byzantine physicians,recommended,frequent bathing,NORP,NOUN_CHUNK
+Arab physician,wrote,book,NOUN_CHUNK,NOUN_CHUNK
+George Day,published,the Diseases of Advanced Life,PERSON,WORK_OF_ART
+Geriatricians,developed,expanded expertise,NORP,NOUN_CHUNK
+Doctors,complete,year core internal medicine residency program,NOUN_CHUNK,NOUN_CHUNK
+only eight major institutes,provide,M.D,CARDINAL,ORG
+content domain,specifies,"three or more observable, measurable competencies",NOUN_CHUNK,CARDINAL
+International sites,include,Australia,NOUN_CHUNK,GPE
+Changes,alter,absorption,NOUN_CHUNK,NOUN_CHUNK
+nearly 1 of 3 medical regimens,found that,potential medication error,CARDINAL,NOUN_CHUNK
+Elderly persons,make,decisions,NOUN_CHUNK,NOUN_CHUNK
+topical anesthesia,used for,cooperation,NOUN_CHUNK,NOUN_CHUNK
+Sterile precautions,include,use,NOUN_CHUNK,NOUN_CHUNK
+Canaloplasty,uses,microcatheter technology,GPE,NOUN_CHUNK
+Macular translocation,surgery.through,360° retinotomy.through scleral imbrication technique,NOUN_CHUNK,QUANTITY
+Oculoplastic surgeons,perform,procedures,NOUN_CHUNK,NOUN_CHUNK
+Canaliculotomy,involves,slitting,GPE,NOUN_CHUNK
+term,means,science,NOUN_CHUNK,NOUN_CHUNK
+Texts,provides,details,NOUN_CHUNK,NOUN_CHUNK
+Hippocratic Corpus,contains,gynaecological treatises,NOUN_CHUNK,NOUN_CHUNK
+"Anarcha, J. Marion Sims",performed,30 surgeries,ORG,CARDINAL
+women condition,referred to,training,NOUN_CHUNK,NOUN_CHUNK
+Gynaecological examination,requires,unique instrumentation,PERSON,NOUN_CHUNK
+Male gynaecologists,have,female chaperone,NOUN_CHUNK,NOUN_CHUNK
+Pre- post - operative medical management,employ,standard drug therapies,NOUN_CHUNK,NOUN_CHUNK
+the Royal College of Obstetricians and Gynaecologists,encourages,study,ORG,NOUN_CHUNK
+generic drug,contain,active ingredients,NOUN_CHUNK,NOUN_CHUNK
+The U.S. Food and Drug Administration,requires,generics,ORG,NOUN_CHUNK
+patents,give,20 years,NOUN_CHUNK,DATE
+Manufacturers,increase,prices,NOUN_CHUNK,NOUN_CHUNK
+Generic drug companies,receive,benefit,NOUN_CHUNK,NOUN_CHUNK
+India,exports,generic drugs,GPE,NOUN_CHUNK
+physicians,The code of,drugs,NOUN_CHUNK,NOUN_CHUNK
+Indian generics companies,exported,US$17.3 billion worth,NORP,MONEY
+entry,brought,stronger patent system,NOUN_CHUNK,NOUN_CHUNK
+major companies,dominate,generic drugs market,NOUN_CHUNK,NOUN_CHUNK
+Plastic surgeons,receive,significant training,NOUN_CHUNK,NOUN_CHUNK
+graduates,do,additional year hand fellowship,NOUN_CHUNK,NOUN_CHUNK
+Hand surgery,incorporates,techniques,NOUN_CHUNK,NOUN_CHUNK
+Hand surgeons,perform,wide variety,NOUN_CHUNK,NOUN_CHUNK
+specialists,have,extensive training,NOUN_CHUNK,NOUN_CHUNK
+smoking,researched to,role,NOUN_CHUNK,NOUN_CHUNK
+minority,require,removal,NOUN_CHUNK,NOUN_CHUNK
+Scandinavian countries,have,incidence,NORP,NOUN_CHUNK
+Cervical cancer,makes up,largest percentage,NOUN_CHUNK,NOUN_CHUNK
+barriers,include,changes,NOUN_CHUNK,NOUN_CHUNK
+people,use,healthcare centers,NOUN_CHUNK,NOUN_CHUNK
+local community services centers,offer,routine health social services,NOUN_CHUNK,NOUN_CHUNK
+health center,covered,area,NOUN_CHUNK,NOUN_CHUNK
+ACES,include,public health,NOUN_CHUNK,NOUN_CHUNK
+Interim Report,laid down,detailed plans,NOUN_CHUNK,NOUN_CHUNK
+known center,had,provision,NOUN_CHUNK,NOUN_CHUNK
+The U.S. Public Health Service,issued,report,ORG,NOUN_CHUNK
+meta evaluation,found,worksite health promotion,NOUN_CHUNK,NOUN_CHUNK
+government agencies,have,substantial efforts,NOUN_CHUNK,NOUN_CHUNK
+The International Union for Health Promotion and Education,holds,international regional national conferences,ORG,NOUN_CHUNK
+The European Union,funding,Joint Action,ORG,NOUN_CHUNK
+ACT Health,supports,health promotion,NOUN_CHUNK,NOUN_CHUNK
+Aboriginal Torres Strait Island citizens,had,poor health,NOUN_CHUNK,NOUN_CHUNK
+health,Enabling,initiatives,NOUN_CHUNK,NOUN_CHUNK
+approach,has,important contribution,NOUN_CHUNK,NOUN_CHUNK
+2012,estimated,healthy life expectancy,DATE,NOUN_CHUNK
+exam,reflects,entry level sub competencies,NOUN_CHUNK,NOUN_CHUNK
+Hematology,is,haematology,NOUN_CHUNK,NOUN_CHUNK
+diseases,include,hemophilia,NOUN_CHUNK,NOUN_CHUNK
+teaching hospital,combines,assistance,NOUN_CHUNK,NOUN_CHUNK
+Hospitals,have,range,NOUN_CHUNK,NOUN_CHUNK
+Common support units,include,pharmacy,NOUN_CHUNK,NOUN_CHUNK
+hospitals,served,different functions,NOUN_CHUNK,NOUN_CHUNK
+Larger cities,have,hospitals,NOUN_CHUNK,NOUN_CHUNK
+district hospitals,provided,$54 million,NOUN_CHUNK,MONEY
+teaching hospital,delivers,healthcare,NOUN_CHUNK,NOUN_CHUNK
+Students,observe,clinical work,NOUN_CHUNK,NOUN_CHUNK
+hospital,have,acute services,NOUN_CHUNK,NOUN_CHUNK
+equipped hospital,have,services,NOUN_CHUNK,NOUN_CHUNK
+hospitals,have,outpatient departments,NOUN_CHUNK,NOUN_CHUNK
+hospital,have,department,NOUN_CHUNK,NOUN_CHUNK
+Support units,include,medical records department,NOUN_CHUNK,NOUN_CHUNK
+COVID-19 pandemic,stimulated,development,NOUN_CHUNK,NOUN_CHUNK
+West Hertfordshire Hospitals NHS Trust,started,COVID Oximetry@Home service,GPE,NOUN_CHUNK
+ancient chronicle,had,hospitals,NOUN_CHUNK,NOUN_CHUNK
+declaration,drove,expansion,NOUN_CHUNK,NOUN_CHUNK
+Facilities,included,systematic treatment procedures,NOUN_CHUNK,NOUN_CHUNK
+Islamic bimaristan,treated,poor,NOUN_CHUNK,NOUN_CHUNK
+The London Dispensary,opened,The London Dispensary doors,ORG,FAC
+hospitals,had,trebled hospitals original average intake,NOUN_CHUNK,NOUN_CHUNK
+Modern hospitals,measure,efficiency metrics,NOUN_CHUNK,NOUN_CHUNK
+Modern hospitals,derive,funding,NOUN_CHUNK,NOUN_CHUNK
+7%,acquire,at least one health care-associated infection,PERCENT,CARDINAL
+Sushruta,introduced,concepts,NOUN_CHUNK,NOUN_CHUNK
+Universities,began,systematic training,NOUN_CHUNK,NOUN_CHUNK
+Military doctors,advanced,methods,NOUN_CHUNK,NOUN_CHUNK
+rapid growth,developed,systematic sanitary measures,NOUN_CHUNK,NOUN_CHUNK
+tribal culture specialized specific castes,fulfilled,role,NOUN_CHUNK,NOUN_CHUNK
+Neolithic dentists,The first known dentistry dates to,flint tipped drills,LOC,NOUN_CHUNK
+ancient Mesopotamians,had,distinction,NOUN_CHUNK,NOUN_CHUNK
+Babylonians,introduced,practice,NOUN_CHUNK,NOUN_CHUNK
+the Diagnostic Handbook,introduced,methods,LAW,NOUN_CHUNK
+hands,known as,control,NOUN_CHUNK,NOUN_CHUNK
+Atharvaveda,contains,prescriptions,NOUN_CHUNK,NOUN_CHUNK
+ancient compendia,include,details,NOUN_CHUNK,NOUN_CHUNK
+Susruta,described,more than 125 surgical instruments,PERSON,CARDINAL
+Ayurvedic classics,mention,eight branches,NOUN_CHUNK,CARDINAL
+Unani medicine,found,deep roots,ORG,NOUN_CHUNK
+Muslim rulers,built,large hospitals,NORP,NOUN_CHUNK
+China,developed,large body,GPE,NOUN_CHUNK
+The Jin Dynasty practitioner,quotes,the Yellow Emperor,PERSON,PERSON
+the Methodist Church,set up,highly successful Wai Ai Clinic,ORG,NOUN_CHUNK
+missionaries,sent,women doctors,NOUN_CHUNK,NOUN_CHUNK
+Dr. Mary Hannah Fulton,founded,medical college,NOUN_CHUNK,NOUN_CHUNK
+Chinese scholars,established,correlation,NORP,NOUN_CHUNK
+800 BCE Homer,gives,descriptions,NOUN_CHUNK,NOUN_CHUNK
+Hippocratics,invented,Hippocratic Oath,NOUN_CHUNK,NOUN_CHUNK
+Two great Alexandrians,laid,foundations,CARDINAL,NOUN_CHUNK
+Alexandrian surgeons,gave,ligature,NOUN_CHUNK,NOUN_CHUNK
+Erasistratus,connected,increased complexity,ORG,NOUN_CHUNK
+air,drawn by,human body,NOUN_CHUNK,NOUN_CHUNK
+Galen,performed,audacious operations,ORG,NOUN_CHUNK
+Galen,explains,mental properties,ORG,NOUN_CHUNK
+Romans,invented,numerous surgical instruments,NOUN_CHUNK,NOUN_CHUNK
+Romans,performed,cataract surgery,NOUN_CHUNK,NOUN_CHUNK
+Early Christians,incorporated,medicine,NOUN_CHUNK,NOUN_CHUNK
+Byzantine medicine,encompasses,common medical practices,NORP,NOUN_CHUNK
+Canon of Medicine,presents,overview,ORG,NOUN_CHUNK
+hospitals,have,mix,NOUN_CHUNK,NOUN_CHUNK
+patient care aspects,taken,effect,NOUN_CHUNK,NOUN_CHUNK
+Wallis,identifies,prestige hierarchy,PERSON,NOUN_CHUNK
+person,have,excess,NOUN_CHUNK,NOUN_CHUNK
+Moods,affect,balance,NOUN_CHUNK,NOUN_CHUNK
+natural faculty,affects,growth,NOUN_CHUNK,NOUN_CHUNK
+Animal,controls,respiration,NOUN_CHUNK,NOUN_CHUNK
+natural faculty,commands,senses,NOUN_CHUNK,NOUN_CHUNK
+Renaissance,brought,intense focus,ORG,NOUN_CHUNK
+Galen,rejected,sacred magic,ORG,NOUN_CHUNK
+The University of Padua,played,leading role,ORG,NOUN_CHUNK
+Vesalius,portrayed,body,PERSON,NOUN_CHUNK
+Italian city,attracted,students,NOUN_CHUNK,NOUN_CHUNK
+Turisanus,covered,surgical techniques,NOUN_CHUNK,NOUN_CHUNK
+Catholic women,played,large roles,NORP,NOUN_CHUNK
+local officials,recognized,public value,NOUN_CHUNK,NOUN_CHUNK
+bequest,funded,expansion,NOUN_CHUNK,NOUN_CHUNK
+Spanish pharmaceutical books,contain,medicinal recipes,NORP,NOUN_CHUNK
+the British Empire,transplanted,herbs,GPE,NOUN_CHUNK
+Hospital doctors,began,systematic analysis,NOUN_CHUNK,NOUN_CHUNK
+Agostino Bassi,traced,silkworm disease muscardine,PERSON,NOUN_CHUNK
+species pathogenicity,used to,tuberculosis treatment,NOUN_CHUNK,NOUN_CHUNK
+professionalization,forced,Women,NOUN_CHUNK,NOUN_CHUNK
+The Russian Orthodox Church,sponsored,seven orders,ORG,CARDINAL
+major reformer,created,the Paris Hospital,NOUN_CHUNK,ORG
+French scientist Louis Pasteur experiments,supported,germ theory,NORP,NOUN_CHUNK
+Pasteur,brought,scientists,PERSON,NOUN_CHUNK
+Lehre von den Augenkrankheiten,combined,practical research,PERSON,NOUN_CHUNK
+U.S. Civil War,had,dramatic long term impact,GPE,NOUN_CHUNK
+surgeons,were,coffee,NOUN_CHUNK,NOUN_CHUNK
+Harsh weather,took,dirty camp hospitals toll,NOUN_CHUNK,NOUN_CHUNK
+Numerous new agencies,targeted,medical morale needs,NOUN_CHUNK,NOUN_CHUNK
+Johns Hopkins Hospital,originated,modern medical practices,ORG,NOUN_CHUNK
+Japanese elites,embraced,Western medicine,NORP,NOUN_CHUNK
+Japanese elites,prepared by,contact,NORP,NOUN_CHUNK
+Japanese physicians,recognized,values,NORP,NOUN_CHUNK
+General Pancho Villa,organized,hospital trains,NOUN_CHUNK,NOUN_CHUNK
+Boxcars,marked,Servicio Sanitario,NOUN_CHUNK,PERSON
+Thousands of scarred troops,provided,need,CARDINAL,NOUN_CHUNK
+U.S. Civil War,spurred,usage,GPE,NOUN_CHUNK
+casualties,receiving,treatment,NOUN_CHUNK,NOUN_CHUNK
+The U.S. Army,established,programs,ORG,NOUN_CHUNK
+Japanese doctors,conducted,large numbers,NORP,NOUN_CHUNK
+United Nations agency,founded in,global health,NOUN_CHUNK,NOUN_CHUNK
+long known vaccine,eradicated,disease,NOUN_CHUNK,NOUN_CHUNK
+sexual revolution,included,taboo breaking research,NOUN_CHUNK,NOUN_CHUNK
+Family planning,promoted,demographic transition,NOUN_CHUNK,NOUN_CHUNK
+struggle,improved,antiretroviral treatments,NOUN_CHUNK,NOUN_CHUNK
+Joseph Murray,accomplished,kidney transplantation,PERSON,NOUN_CHUNK
+Ellen S.,To,Balance,PERSON,NOUN_CHUNK
+ICD-10,contains,codes,NOUN_CHUNK,NOUN_CHUNK
+ICD-10-CM,has,"over 70,000 codes",PERSON,CARDINAL
+online training,includes,support forum,NOUN_CHUNK,NOUN_CHUNK
+France,introduced,clinical addendum,GPE,NOUN_CHUNK
+Hungary,introduced,use,GPE,NOUN_CHUNK
+5th Edition,replaced,the 4th Edition,NOUN_CHUNK,PRODUCT
+federal agency,postponed by,numerous factors,NOUN_CHUNK,NOUN_CHUNK
+expansion,prompted,need,NOUN_CHUNK,NOUN_CHUNK
+the American Osteopathic Association Bureau of Osteopathic Specialists,approved,Certificate,ORG,NOUN_CHUNK
+ICPC-2 PLUS,takes into,frequency distribution,NOUN_CHUNK,NOUN_CHUNK
+user,selects,appropriate term,NOUN_CHUNK,NOUN_CHUNK
+reasons,might,be:.Drug overdose,NOUN_CHUNK,NOUN_CHUNK
+400 BC Hippocrates,mentioned,liver abscess,CARDINAL,NOUN_CHUNK
+Roman anatomist Galen,identified,liver relationship,NORP,NOUN_CHUNK
+Justus Von Leibig,discovered,pancreatic juice,PERSON,NOUN_CHUNK
+Austin Flint,described,production,PERSON,NOUN_CHUNK
+Victor Charles Hanot,described,cirrhotic jaundice,PERSON,NOUN_CHUNK
+Moore,developed,standard technique,PERSON,NOUN_CHUNK
+investigators,identified,hepatitis C virus,NOUN_CHUNK,NOUN_CHUNK
+PancreaseAlso,see,Hepato-biliary diseases,NOUN_CHUNK,ORG
+identifier,identifies,periodical publications,NOUN_CHUNK,NOUN_CHUNK
+The International Standard Music Number,covers,musical scores,ORG,NOUN_CHUNK
+the International Organization for Standardization (ISO,appointed,the International ISBN Agency,ORG,ORG
+ebook,have,different ISBN,NOUN_CHUNK,NOUN_CHUNK
+Câmara Brasileira,do,Livro,PERSON,PERSON
+Books,have,longer group elements,NOUN_CHUNK,NOUN_CHUNK
+national ISBN agency,assigns,registrant element,NOUN_CHUNK,NOUN_CHUNK
+publisher,receive,block,NOUN_CHUNK,NOUN_CHUNK
+publisher,have,different allotted registrant elements,NOUN_CHUNK,NOUN_CHUNK
+remainder,equal,0 or 11,NOUN_CHUNK,CARDINAL
+A zero,replaces,10,CARDINAL,CARDINAL
+Publishers,have,varied policies,NOUN_CHUNK,NOUN_CHUNK
+libraries,display,book record,NOUN_CHUNK,NOUN_CHUNK
+upgrading,eased,migration,NOUN_CHUNK,NOUN_CHUNK
+Uniform Resource Names,RFC 3187—Using International Standard Book Numbers as,search,NOUN_CHUNK,NOUN_CHUNK
+use,facilitates,search,NOUN_CHUNK,NOUN_CHUNK
+The International Centre,the ISDS Register (International Serials Data System,database,ORG,NOUN_CHUNK
+the ISSN Register,contained,records,ORG,NOUN_CHUNK
+print version,include,ISSN code,NOUN_CHUNK,NOUN_CHUNK
+serial websites,contain,ISSN code information,NOUN_CHUNK,ORG
+Derivative lists,found through,ISSN codes,NOUN_CHUNK,ORG
+WorldCat library,Register This,item,NOUN_CHUNK,NOUN_CHUNK
+new ISSN,assigned to,major title change,NOUN_CHUNK,NOUN_CHUNK
+Nature,used as,ISSN,NOUN_CHUNK,NOUN_CHUNK
+metadata contexts,have,standard labels,NOUN_CHUNK,NOUN_CHUNK
+U.S. publishers,obtain,ISSN,GPE,NOUN_CHUNK
+scope,includes,acute patient care,NOUN_CHUNK,NOUN_CHUNK
+hospitalists,lack,board certification,NOUN_CHUNK,NOUN_CHUNK
+universities,started,fellowship programs,NOUN_CHUNK,NOUN_CHUNK
+primary care physicians,experiencing,shrinking role,NOUN_CHUNK,NOUN_CHUNK
+IMA SW,includes,25 state chapters,NOUN_CHUNK,CARDINAL
+involvement,improve,patient outcomes,NOUN_CHUNK,NOUN_CHUNK
+specialists,provide,long term care,NOUN_CHUNK,NOUN_CHUNK
+physicians,developed,nosology,NOUN_CHUNK,NOUN_CHUNK
+General internal medicine specialists,trained for,necessarily expertise,NOUN_CHUNK,NOUN_CHUNK
+programs,require,previous undergraduate education,NOUN_CHUNK,NOUN_CHUNK
+residency training,lasts,three years,NOUN_CHUNK,DATE
+American College of Osteopathic Internists Osteopathic Internists,recognizes,following subspecialties:.Allergy Immunology,ORG,NOUN_CHUNK
+Tropical medicineMany training programmes,provide,dual accreditation,NOUN_CHUNK,NOUN_CHUNK
+subspecialties,focused on,procedural treatment:.Cardiology,NOUN_CHUNK,NOUN_CHUNK
+ICPC,contains,17 chapters:.A General,NOUN_CHUNK,CARDINAL
+Early political consolidations,gave,rise,NOUN_CHUNK,NOUN_CHUNK
+Middle kingdoms,exported,Dravidian-languages scripts,NOUN_CHUNK,NORP
+Christianity,put down,roots,ORG,NOUN_CHUNK
+the Vijayanagara Empire,created,long lasting composite Hindu culture,GPE,NOUN_CHUNK
+ideas,granted,root,NOUN_CHUNK,NOUN_CHUNK
+Indian movies,play,increasing role,NORP,NOUN_CHUNK
+India,has,disputes,GPE,NOUN_CHUNK
+India's land forest cover,comprises,21.4%,GPE,PERCENT
+Hinduism,asserted,patriarchal control,NORP,NOUN_CHUNK
+the Islamic Delhi Sultanate's raiding,paved,way,ORG,NOUN_CHUNK
+number,established,coastal outposts,NOUN_CHUNK,NOUN_CHUNK
+appointment,set,stage,NOUN_CHUNK,NOUN_CHUNK
+the Indian National Congress,won,victories,ORG,NOUN_CHUNK
+Indian movies,play,increasing role,NORP,NOUN_CHUNK
+India,has,unresolved territorial disputes,GPE,NOUN_CHUNK
+Deccan Plateau,contains,country oldest rock formations,NOUN_CHUNK,NOUN_CHUNK
+mainland coastline,consists of,43% sandy beaches,NOUN_CHUNK,PERCENT
+Coastal features,shared with,marshy Rann,ORG,NOUN_CHUNK
+India,has,two archipelagos,GPE,CARDINAL
+India's subsequent collision,set off,mass exchange,GPE,NOUN_CHUNK
+volcanism,caused,extinction,NOUN_CHUNK,NOUN_CHUNK
+India,contains,172 IUCN-designated threatened animal species,GPE,CARDINAL
+pervasive ecologically devastating human encroachment,endangered,Indian wildlife,NOUN_CHUNK,NORP
+the Indian National Congress,won,easy victories,ORG,NOUN_CHUNK
+the Bharatiya Janata Party,won,absolute majority,ORG,NOUN_CHUNK
+year period,followed,general election,NOUN_CHUNK,NOUN_CHUNK
+short lived alliances,shared,power,NOUN_CHUNK,NOUN_CHUNK
+Federalism,defines,power distribution,NOUN_CHUNK,NOUN_CHUNK
+parliament,comprises,upper house,NOUN_CHUNK,NOUN_CHUNK
+states,elected,legislatures,NOUN_CHUNK,NOUN_CHUNK
+India,has,wide ranging defence relations,GPE,NOUN_CHUNK
+India,played,key roles,GPE,NOUN_CHUNK
+India,provided,"100,000 military and police personnel",GPE,CARDINAL
+India,signed,Comprehensive Nuclear Test Ban Treaty,GPE,NOUN_CHUNK
+indigenous military projects,involve,design,NOUN_CHUNK,NOUN_CHUNK
+India,increased,"India economic, strategic, and military co-operation",GPE,GPE
+world second largest military,comprises,the Indian Army,NOUN_CHUNK,ORG
+the Indian Space Research Organisation,launched,the South Asia Satellite,ORG,LOC
+Indian governments,followed,protectionist policies,NOUN_CHUNK,NOUN_CHUNK
+Widespread state intervention,walled,Indian economy,NOUN_CHUNK,NOUN_CHUNK
+Major agricultural products,include,rice,NOUN_CHUNK,NOUN_CHUNK
+Major industries,include,textiles,NOUN_CHUNK,NOUN_CHUNK
+Major exports,include,petroleum products,NOUN_CHUNK,NOUN_CHUNK
+Major imports,include,crude oil,NOUN_CHUNK,NOUN_CHUNK
+Living Report,highlights,key growth factors,NOUN_CHUNK,NOUN_CHUNK
+India's R & D spending,constitutes,60%,GPE,PERCENT
+India,contained,largest number,GPE,NOUN_CHUNK
+post - colonial census,counted,361 million people,NOUN_CHUNK,CARDINAL
+India,has,national language,GPE,NOUN_CHUNK
+India,has,largest Muslim population,GPE,NOUN_CHUNK
+Indian cultural history,spans,"more than 4,500 years",NORP,DATE
+Indian writers,took,new interest,NORP,NOUN_CHUNK
+Classical music,encompasses,two genres,NOUN_CHUNK,CARDINAL
+Indian dance,features,diverse folk,NORP,NOUN_CHUNK
+Theatre,melds,music,NOUN_CHUNK,NOUN_CHUNK
+Indian theatre,includes,bhavai,NORP,NOUN_CHUNK
+India,has,theatre training institute,GPE,NOUN_CHUNK
+Indian film industry,produces,world watched cinema,NOUN_CHUNK,NOUN_CHUNK
+satellite channels,shaped,popular culture,NOUN_CHUNK,NOUN_CHUNK
+known,include,Diwali,NOUN_CHUNK,NOUN_CHUNK
+caste,reduced,private spending,NOUN_CHUNK,NOUN_CHUNK
+India,had,900 universities,GPE,NOUN_CHUNK
+kameez,have,European style collar,NOUN_CHUNK,NOUN_CHUNK
+fashions,changed,great deal,NOUN_CHUNK,NOUN_CHUNK
+Columbian exchange,brought,potato,NOUN_CHUNK,NOUN_CHUNK
+mental representation,takes,form,NOUN_CHUNK,NOUN_CHUNK
+Chess,regaining,widespread popularity,NOUN_CHUNK,NOUN_CHUNK
+Major international sporting events,include,the Chennai Open,NOUN_CHUNK,EVENT
+Immunology,has,applications,ORG,NOUN_CHUNK
+Classical immunology,studies,relationship,NOUN_CHUNK,NOUN_CHUNK
+immune system,has,capability,NOUN_CHUNK,NOUN_CHUNK
+Maternal factors,play,role,NOUN_CHUNK,NOUN_CHUNK
+Antigen presenting cells,produce,negative response,NOUN_CHUNK,NOUN_CHUNK
+child,produce,dampened response,NOUN_CHUNK,NOUN_CHUNK
+Passively acquired maternal antibodies,suppress,antibody response,NOUN_CHUNK,NOUN_CHUNK
+cell surface receptors,is,sex hormones,NOUN_CHUNK,NOUN_CHUNK
+androgens,increase,immune response,NOUN_CHUNK,NOUN_CHUNK
+Physical changes,affect,immunological response,NOUN_CHUNK,NOUN_CHUNK
+Ecoimmunology,explores,relationship,NOUN_CHUNK,NOUN_CHUNK
+Monarch butterfly,lays,Monarch butterfly eggs,NOUN_CHUNK,NOUN_CHUNK
+toxins,reduce,parasite growth,NOUN_CHUNK,NOUN_CHUNK
+uninfected Monarch butterflies,suffer,fitness cost,NOUN_CHUNK,NOUN_CHUNK
+The end of the 19th century,saw,battle,DATE,NOUN_CHUNK
+Macfarlane Burnet,formulated,clonal selection theory,PERSON,NOUN_CHUNK
+The King's Fund,organises,conferences,ORG,NOUN_CHUNK
+The King's Fund,funded,yearly award system,ORG,NOUN_CHUNK
+The King's Fund,changed,The King's Fund name,ORG,FAC
+Parliament,incorporated,The King's Fund,ORG,ORG
+List,think,tanks,NOUN_CHUNK,NOUN_CHUNK
+organizations,put,pressure,NOUN_CHUNK,NOUN_CHUNK
+J1,requires,2-year home residence,NOUN_CHUNK,NOUN_CHUNK
+patients,showed that,lower mortality,NOUN_CHUNK,NOUN_CHUNK
+teams,include,doctors,NOUN_CHUNK,NOUN_CHUNK
+Indications,include,blood pressure support,NOUN_CHUNK,NOUN_CHUNK
+ICU needs,include,airway,NOUN_CHUNK,NOUN_CHUNK
+cumulative effects,requires,advanced care,NOUN_CHUNK,NOUN_CHUNK
+intensivist,takes on,primary role,NOUN_CHUNK,NOUN_CHUNK
+closed units,is,better patient outcomes,NOUN_CHUNK,NOUN_CHUNK
+hospitals,designated,intensive care areas,NOUN_CHUNK,NOUN_CHUNK
+E-ICU)Medical studies,(NCCU).overnight intensive-recovery (OIR).shock/trauma intensive-care unit,relation,ORG,NOUN_CHUNK
+Hospitals,had,outcomes,NOUN_CHUNK,NOUN_CHUNK
+American neurosurgeon Walter Dandy,created,bed unit,NOUN_CHUNK,NOUN_CHUNK
+Ibsen,authored,known account,ORG,NOUN_CHUNK
+Electroencephalography,assess,electrical activity,NOUN_CHUNK,NOUN_CHUNK
+Electrocardiogram,detect,abnormal heart rhythms,NOUN_CHUNK,NOUN_CHUNK
+Intensive care,takes,approach,NOUN_CHUNK,NOUN_CHUNK
+Ventricular,assist,device,NOUN_CHUNK,NOUN_CHUNK
+Intensivists,pursue,combined fellowship training,ORG,NOUN_CHUNK
+Nurses,pursue,additional education,NOUN_CHUNK,NOUN_CHUNK
+Inclusion,decreases,drug reactions,NOUN_CHUNK,NOUN_CHUNK
+Nutrition,presents,unique challenges,NOUN_CHUNK,NOUN_CHUNK
+Respiratory therapists,pursue,additional education,NOUN_CHUNK,NOUN_CHUNK
+LGA's published business plan,sets out,Association main lobbying priorities,ORG,NOUN_CHUNK
+LGA,has,number,ORG,NOUN_CHUNK
+Local Councils Association of the PunjabCymdeithas Llywodraeth Leol,Cymru).The,Local Government Chronicle,ORG,ORG
+Non-MSTP funded dual degree programs,have,flexibility,ORG,NOUN_CHUNK
+combined research graduate level medical education,extends,residency period,NOUN_CHUNK,NOUN_CHUNK
+students,follow,2-PhD-2 plan,NOUN_CHUNK,NOUN_CHUNK
+graduates,make up,just 2.5%,NOUN_CHUNK,PERCENT
+MD PhD graduates,practice,clinical medicine,NOUN_CHUNK,NOUN_CHUNK
+American Physician Scientists,Association.==,References,NORP,NOUN_CHUNK
+Lancet,held,conference,NOUN_CHUNK,NOUN_CHUNK
+degree,complement,existing fellowship,NOUN_CHUNK,NOUN_CHUNK
+master degree,requires,previous study,NOUN_CHUNK,NOUN_CHUNK
+Nineteenth century,saw,great expansion,DATE,NOUN_CHUNK
+title,indicates,extended degree,NOUN_CHUNK,NOUN_CHUNK
+generically named master programs,include,the Master of Studies,NOUN_CHUNK,ORG
+universities,use,Latin degree names,NOUN_CHUNK,LOC
+Examples,include,Harvard University,NOUN_CHUNK,ORG
+extended master degrees,use,title doctor,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,MBA,NOUN_CHUNK,WORK_OF_ART
+The United States Department of Education,classifies,master degrees,ORG,NOUN_CHUNK
+Research master degrees,require,completion,NOUN_CHUNK,NOUN_CHUNK
+The Australian Qualifications Framework,classifies,master degrees,ORG,NOUN_CHUNK
+Coursework master degrees,last,one to two years,NOUN_CHUNK,DATE
+research,classified as,less than half,NOUN_CHUNK,CARDINAL
+MPhil,takes,two calendar years,NOUN_CHUNK,CARDINAL
+master degree,take,up to two years,NOUN_CHUNK,DATE
+The Framework for Higher Education Qualification,level,7 qualifications,ORG,CARDINAL
+Admission,requires,successful completion,NOUN_CHUNK,NOUN_CHUNK
+title,requires,master degree,NOUN_CHUNK,NOUN_CHUNK
+master degree,takes,two years,NOUN_CHUNK,DATE
+title,have,option,NOUN_CHUNK,NOUN_CHUNK
+students,obtained,professional degrees,NOUN_CHUNK,NOUN_CHUNK
+graduate,choose,master course,NOUN_CHUNK,NOUN_CHUNK
+Brazilian universities,offer,MBA program,NOUN_CHUNK,NOUN_CHUNK
+The Master's degree,offered as,physical attendance,WORK_OF_ART,NOUN_CHUNK
+Spanish government,offers,the Taiwan Scholarship,NOUN_CHUNK,ORG
+IR,performs,diagnostic therapeutic procedures,ORG,NOUN_CHUNK
+Placement,placed,AV fistulas,NOUN_CHUNK,NOUN_CHUNK
+Radiologically,inserted,gastrostomy,PERSON,NOUN_CHUNK
+special catheter,Radiofrequency ablation,tissue,NOUN_CHUNK,NOUN_CHUNK
+patient,have,notably heart liver functions,NOUN_CHUNK,NOUN_CHUNK
+collaboration,optimizes,patient outcome,NOUN_CHUNK,NOUN_CHUNK
+TIPS,cause,temporary confusion,NOUN_CHUNK,NOUN_CHUNK
+patients,have,infected stone,NOUN_CHUNK,NOUN_CHUNK
+Patients,tolerate,procedure,NOUN_CHUNK,NOUN_CHUNK
+Current treatment options,include,conservative management,NOUN_CHUNK,NOUN_CHUNK
+interventional radiologist,guides,catheter,NOUN_CHUNK,NOUN_CHUNK
+interventional radiologist,offer,minimally invasive treatment option,NOUN_CHUNK,NOUN_CHUNK
+half,fail,therapy,CARDINAL,NOUN_CHUNK
+10%,require,retreatment,PERCENT,NOUN_CHUNK
+interventional radiologist,repeated at,RF electrode,NOUN_CHUNK,NOUN_CHUNK
+people,reported,improvement,NOUN_CHUNK,NOUN_CHUNK
+RFA,treated with,bone,NOUN_CHUNK,NOUN_CHUNK
+numerous factors,associated with,patient post - operative course,NOUN_CHUNK,NOUN_CHUNK
+Angiography,provides,basis,NOUN_CHUNK,NOUN_CHUNK
+body,forms,blood clots,NOUN_CHUNK,NOUN_CHUNK
+Arterial diseases,affect,one or multiple layers,NOUN_CHUNK,CARDINAL
+capillaries,have,thin single layered walls,NOUN_CHUNK,NOUN_CHUNK
+multiple studies,shown,strong correlations,NOUN_CHUNK,NOUN_CHUNK
+perfusion,occur,pain,NOUN_CHUNK,NOUN_CHUNK
+diagnosis,incurs,higher risk,NOUN_CHUNK,NOUN_CHUNK
+Surgical options,include,open thrombectomy,NOUN_CHUNK,NOUN_CHUNK
+Chronic mesenteric ischemia,produce,severe pain,NOUN_CHUNK,NOUN_CHUNK
+classic symptoms,include,buttock claudication,NOUN_CHUNK,NOUN_CHUNK
+amenable endovascular treatments,include,endovascular stenting,NOUN_CHUNK,NOUN_CHUNK
+Rupture,have,devastating clinical effects,NOUN_CHUNK,NOUN_CHUNK
+Dissections,classified,thoracic aorta,NOUN_CHUNK,NOUN_CHUNK
+Type dissections,involve,root,NOUN_CHUNK,NOUN_CHUNK
+Carotid artery Dissection,places,patients,NOUN_CHUNK,NOUN_CHUNK
+Vertebral Artery Dissection,limit,blood supply,ORG,NOUN_CHUNK
+Renal Artery Dissections,decrease,blood flow,ORG,NOUN_CHUNK
+related conditions,have,high potential morbidity,NOUN_CHUNK,NOUN_CHUNK
+modern Vascular Interventional Radiologists,address,bleeding,NOUN_CHUNK,NOUN_CHUNK
+Chronic Kidney Disease,has,numerous recognized causes,NOUN_CHUNK,NOUN_CHUNK
+CKD,affects,approximately 14%,ORG,PERCENT
+M.,consolidates,application,NOUN_CHUNK,NOUN_CHUNK
+M. degree programme,carries,120 credits,PERSON,CARDINAL
+The University of Edinburgh,offer,Ch,ORG,NOUN_CHUNK
+Maternal fetal medicine specialists training,includes,year residency,NOUN_CHUNK,NOUN_CHUNK
+Albert William Liley,developed,course,PERSON,NOUN_CHUNK
+mothers,Expecting,consult,NOUN_CHUNK,NOUN_CHUNK
+McGill,offers,degrees,PERSON,NOUN_CHUNK
+30%,held,position,PERCENT,NOUN_CHUNK
+McGill alumni,include,six Academy Award winners,ORG,CARDINAL
+notable inventions,include,world artificial cell,NOUN_CHUNK,NOUN_CHUNK
+McGill,has,largest endowment,ORG,NOUN_CHUNK
+McGill College,received,Charter,ORG,NOUN_CHUNK
+The Faculty of Medicine,has,strong links,ORG,NOUN_CHUNK
+William Spier,designed,addition,PERSON,NOUN_CHUNK
+Alexander Francis Dunlop,designed,major alterations,PERSON,NOUN_CHUNK
+The Faculty of Medicine,established,the McLennan Travelling Library,ORG,ORG
+The Faculty of Medicine's,called,use,ORG,NOUN_CHUNK
+George Allan Ross,designed,the Pathology Building,PERSON,FAC
+McGill University,played,significant role,ORG,NOUN_CHUNK
+Earl Alexander,laid,cornerstone,PERSON,NOUN_CHUNK
+A Book of Remembrance,contains,names,WORK_OF_ART,NOUN_CHUNK
+Osler,led,creation,ORG,NOUN_CHUNK
+McGill alumni,founded,the McGill School of Architecture,NOUN_CHUNK,ORG
+Travel + Leisure,rated,McGill's campus,ORG,ORG
+Quebec government,initiated,1.6 billion LEED redevelopment project,NOUN_CHUNK,NOUN_CHUNK
+site,comprises,"170,000 square metres",NOUN_CHUNK,QUANTITY
+undergraduate medical education program,brings,hundreds of senior members yearly and,NOUN_CHUNK,CARDINAL
+the University of Alberta,operates,the McGill Arctic Research Station,ORG,ORG
+McGill,owned,parkland,ORG,NOUN_CHUNK
+the Faculty of Management,launched,program,ORG,NOUN_CHUNK
+University academic units,include,the School of Architecture,NOUN_CHUNK,ORG
+Graduate,oversees,admission,NOUN_CHUNK,NOUN_CHUNK
+Graduate,administers,graduate fellowships,NOUN_CHUNK,NOUN_CHUNK
+The Graduate and Postdoctoral Studies,conducts,regular program reviews,ORG,NOUN_CHUNK
+the McGill Executive Institute,provides,business seminars,ORG,NOUN_CHUNK
+the University of Alberta,is,guide,ORG,NOUN_CHUNK
+McGill,hosts,500 incoming exchange students,PERSON,NOUN_CHUNK
+McGill endowment,provides,approximately 10 per cent,NOUN_CHUNK,MONEY
+Recent data,shown,graduate acceptance rate,NOUN_CHUNK,NOUN_CHUNK
+the Faculty of Engineering,maintains,additional affiliations,ORG,NOUN_CHUNK
+McGill undergraduates,have,highest average entering grades,ORG,NOUN_CHUNK
+applicants,had,average GMAT score,NOUN_CHUNK,NOUN_CHUNK
+MBA students,had,average age,NOUN_CHUNK,NOUN_CHUNK
+McGill,offered,340 academic programs,ORG,NOUN_CHUNK
+the University of Alberta,offers,250 doctoral master graduate degree programs,ORG,NOUN_CHUNK
+McGill,upheld,relatively low appealing student faculty ratio,PERSON,NOUN_CHUNK
+McGill,outlines,scholarship considerations,PERSON,NOUN_CHUNK
+"candidates.""The university",joined,Project Hero,NOUN_CHUNK,ORG
+Francophone students,make up,approximately 20 percent,NOUN_CHUNK,PERCENT
+the University of Alberta,has,bilingual language policy,ORG,NOUN_CHUNK
+Protesters,saw,English,NOUN_CHUNK,LANGUAGE
+majority,opposed,position,NOUN_CHUNK,NOUN_CHUNK
+the University of Alberta,held,position,ORG,NOUN_CHUNK
+The Globe and Mail's Canadian University Report,categorised,McGill,ORG,PERSON
+Research Infosource,ranked,McGill 3rd,ORG,ORG
+the Academic Ranking of World Universities,ranked,the University of Alberta 78th,WORK_OF_ART,ORG
+Nature,ranked,McGill 63rd,NOUN_CHUNK,PERSON
+Quacquarelli Symonds,ranked,McGill MBA 59th,PERSON,ORG
+The Financial Times,placed,the MBA programme 91st,ORG,ORG
+Research,plays,critical role,NOUN_CHUNK,NOUN_CHUNK
+McGill,had,over $547 million,ORG,MONEY
+McGill,has,one of the largest patent portfolios among Canadian universities,ORG,CARDINAL
+Sir William Osler,made,significant discoveries,NOUN_CHUNK,NOUN_CHUNK
+William Chalmers,invented,Plexiglas,PERSON,NOUN_CHUNK
+team,developed,digital musical instruments,NOUN_CHUNK,NOUN_CHUNK
+Redpath Museum,features,collections,ORG,NOUN_CHUNK
+Almost half,claim,language,CARDINAL,NOUN_CHUNK
+campus,has,active students society,NOUN_CHUNK,NOUN_CHUNK
+PGSS,contains,semi autonomous Association,NOUN_CHUNK,NOUN_CHUNK
+humanitarian groups,include,UNICEF,NOUN_CHUNK,ORG
+McGill,has,number,ORG,NOUN_CHUNK
+The Bull & Bear,publishes,"1,000 copies",ORG,CARDINAL
+Macdonald Campus facilities,include,arena,NOUN_CHUNK,NOUN_CHUNK
+university,seats,"just over 25,000",NOUN_CHUNK,CARDINAL
+McGill University students,wrote,hockey rule book,NOUN_CHUNK,NOUN_CHUNK
+McGill alumnus James Naismith,invented,basketball,ORG,NOUN_CHUNK
+"Norwegian Herman ""Jackrabbit"" Smith-Johannsen",popularized,cross - country skiing,NORP,NOUN_CHUNK
+Notable members,include,McGill alumnus James Naismith,NOUN_CHUNK,ORG
+2005 hazing scandal,forced,cancellation,NOUN_CHUNK,NOUN_CHUNK
+new,carries,historical links,NOUN_CHUNK,NOUN_CHUNK
+McGill,maintains,academic athletic rivalry,ORG,NOUN_CHUNK
+Competition,inspired,annual boat race,NOUN_CHUNK,NOUN_CHUNK
+school,competes in,soccer tournament,NOUN_CHUNK,NOUN_CHUNK
+McGill alumni,played,pivotal roles,ORG,NOUN_CHUNK
+recent academic leaders,include,President,NOUN_CHUNK,NOUN_CHUNK
+McGill students,include,four Pulitzer Prize winners,ORG,CARDINAL
+McGill graduates,received,total,ORG,NOUN_CHUNK
+McGill,produced,five astronauts,ORG,CARDINAL
+prominent science alumni,include,inventor,NOUN_CHUNK,NOUN_CHUNK
+McGill alumni,include,three Prime Ministers,ORG,CARDINAL
+NITI Aayog,recommended,replacement,NOUN_CHUNK,NOUN_CHUNK
+committee,An ordinance to,The Medical Council of India,NOUN_CHUNK,ORG
+National Medical Commission,recommended,replacement,ORG,NOUN_CHUNK
+Foreign medical graduates,have,option,NOUN_CHUNK,NOUN_CHUNK
+CBI,recovered,1.5 kg,NOUN_CHUNK,QUANTITY
+MCI,is,Online,ORG,NOUN_CHUNK
+MCI Online,provides,online search,ORG,NOUN_CHUNK
+the Board of Governors Governors,taken over,functions,ORG,NOUN_CHUNK
+diagnostic procedure,involves,classification tests,NOUN_CHUNK,NOUN_CHUNK
+article,uses,diagnostician,NOUN_CHUNK,NOUN_CHUNK
+diagnostic procedure,involve,components,NOUN_CHUNK,NOUN_CHUNK
+provider,ruled out,hypotheses,NOUN_CHUNK,NOUN_CHUNK
+people,experience,at least one diagnostic error,NOUN_CHUNK,CARDINAL
+Babylonian medical textbook,introduced,use,NOUN_CHUNK,NOUN_CHUNK
+Traditional Chinese Medicine,specified,four diagnostic methods,ORG,CARDINAL
+Diagnosis,take,forms,NOUN_CHUNK,NOUN_CHUNK
+proper diagnosis,requires,examination,NOUN_CHUNK,NOUN_CHUNK
+patients,have,additional diagnoses,NOUN_CHUNK,NOUN_CHUNK
+Medical education,applies,theories,NOUN_CHUNK,NOUN_CHUNK
+jurisdictions,provide,undergraduate entry programs,NOUN_CHUNK,NOUN_CHUNK
+EPA,lists,EPA key feature,NOUN_CHUNK,NOUN_CHUNK
+Research areas,include,practical applications,NOUN_CHUNK,NOUN_CHUNK
+Students,pursue,years,NOUN_CHUNK,NOUN_CHUNK
+health care delivery system,reflects,health care delivery system,NOUN_CHUNK,NOUN_CHUNK
+MedEDPORTAL.Journal of Medical Education and Curricular DevelopmentGraduate Medical Education and Continuing Medical Education,focused,journals:.Journal of Continuing Education,CARDINAL,ORG
+medical journal,has,varying impact factor,NOUN_CHUNK,NOUN_CHUNK
+Medical genetics,encompasses,different areas,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,chromosomal rearrangements,NOUN_CHUNK,NOUN_CHUNK
+physician,complete,minimum,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,galactosemia,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,aneuploidy,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,achondroplasia,NOUN_CHUNK,NOUN_CHUNK
+Nazi misuse,sounded,Nazi misuse,NOUN_CHUNK,NOUN_CHUNK
+Medical genetics,saw,increasingly rapid rise,NOUN_CHUNK,NOUN_CHUNK
+clinical setting,determines,scope,NOUN_CHUNK,NOUN_CHUNK
+newborn screen,incorporates,biochemical tests,NOUN_CHUNK,NOUN_CHUNK
+acylcarnitine combination profile,detects,compounds,NOUN_CHUNK,NOUN_CHUNK
+cell,contains,hereditary information,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,Gaucher disease,NOUN_CHUNK,PERSON
+US practitioners,obtain,board certification,GPE,NOUN_CHUNK
+unique status,has,number,NOUN_CHUNK,NOUN_CHUNK
+the American Society of Human Genetics,began,annual meetings,ORG,DATE
+the American Society of Human Genetics,publishes,the American Journal of Human Genetics,ORG,ORG
+broad range,reflects,overall scope,NOUN_CHUNK,NOUN_CHUNK
+Basic research geneticists,undertake,research,NOUN_CHUNK,NOUN_CHUNK
+number,influence,distribution,NOUN_CHUNK,NOUN_CHUNK
+Genetic studies,use,admixture linkage disequilibrium,NOUN_CHUNK,NOUN_CHUNK
+The National Human Genome Research Institute,hosts,information center,ORG,NOUN_CHUNK
+field,studies,clinical applications,NOUN_CHUNK,NOUN_CHUNK
+medical microbiologist,studies,characteristics,NOUN_CHUNK,NOUN_CHUNK
+academic qualification,requires,Masters,NOUN_CHUNK,NOUN_CHUNK
+Louis Pasteur,designed,vaccines,PERSON,NOUN_CHUNK
+Robert Koch,developed,series,PERSON,NOUN_CHUNK
+Paul Ehrlich,tested,multiple combinations,PERSON,NOUN_CHUNK
+Gerhard Domagk,found,Prontosil red protected mice,PERSON,PRODUCT
+Gerhard Domagk,received,the Nobel Prize,PERSON,WORK_OF_ART
+DNA sequencing,caused,rapid change,NOUN_CHUNK,NOUN_CHUNK
+Airborne transmission Pathogen,carrying,spores,NOUN_CHUNK,NOUN_CHUNK
+virus,introduced to,access,NOUN_CHUNK,NOUN_CHUNK
+detailed identification techniques,involve,microbial culture,NOUN_CHUNK,NOUN_CHUNK
+liquid,determined by,colloidal suspension,NOUN_CHUNK,NOUN_CHUNK
+Culture techniques,use,microscopic examination,NOUN_CHUNK,NOUN_CHUNK
+extracellular matrix,protect,inner bacteria cells,NOUN_CHUNK,NOUN_CHUNK
+physician,referred to,residency,NOUN_CHUNK,NOUN_CHUNK
+terminology,reflect,level,NOUN_CHUNK,NOUN_CHUNK
+physicians,assumed that,obligations,NOUN_CHUNK,NOUN_CHUNK
+Specialized fields,require,longer training,NOUN_CHUNK,NOUN_CHUNK
+R3 R4 Resident,obtains,specialty,NOUN_CHUNK,NOUN_CHUNK
+areas,include,cardiology,NOUN_CHUNK,NOUN_CHUNK
+Direct entry specialties,have,fellowships,NOUN_CHUNK,NOUN_CHUNK
+Add specialties,require,previous training,NOUN_CHUNK,NOUN_CHUNK
+acute specialties,have,juniors,NOUN_CHUNK,NOUN_CHUNK
+Trainee,starts,specialty training,NOUN_CHUNK,NOUN_CHUNK
+Specialist residency programs,require,participation,NOUN_CHUNK,NOUN_CHUNK
+time,include,fellowship,NOUN_CHUNK,NOUN_CHUNK
+interview process,involves,separate interviews,NOUN_CHUNK,NOUN_CHUNK
+applicant,held,program facilities,NOUN_CHUNK,NOUN_CHUNK
+residency programs,submit,list,NOUN_CHUNK,NOUN_CHUNK
+applicant,see,list,NOUN_CHUNK,NOUN_CHUNK
+NRMP,introduced,organized scramble system,NOUN_CHUNK,NOUN_CHUNK
+Medical residencies,require,lengthy hours,NOUN_CHUNK,NOUN_CHUNK
+review committee,grant,exceptions,NOUN_CHUNK,NOUN_CHUNK
+United States federal law,places,limit,GPE,NOUN_CHUNK
+decision,allow,up to six hours,NOUN_CHUNK,TIME
+interns,assume,responsibility,NOUN_CHUNK,NOUN_CHUNK
+The Department of Health and Human Services,funds,vast majority,ORG,NOUN_CHUNK
+principal traditional residencies,included,internal medicine,NOUN_CHUNK,NOUN_CHUNK
+medical degrees,include,the Bachelor of Medicine,NOUN_CHUNK,WORK_OF_ART
+medical schools,offer,additional degrees,NOUN_CHUNK,NOUN_CHUNK
+undergraduate degree,completed as,prerequisite undergraduate coursework,NOUN_CHUNK,NOUN_CHUNK
+modern medical schools,integrate,clinical education,NOUN_CHUNK,NOUN_CHUNK
+students,study,subjects,NOUN_CHUNK,NOUN_CHUNK
+Subsequent clinical rotations,include,internal medicine,NOUN_CHUNK,NOUN_CHUNK
+Basic Medical education,lasts,6 years,ORG,DATE
+Students,get,MBChB degree,NOUN_CHUNK,NOUN_CHUNK
+The first two years,cover,basic medical preclinical sciences,DATE,NOUN_CHUNK
+AKUH,offers,post graduate MMed programmes,ORG,NOUN_CHUNK
+Candidates,attain,high scores,NOUN_CHUNK,NOUN_CHUNK
+Students,undergo,rigorous training,NOUN_CHUNK,NOUN_CHUNK
+Medical schools,offer,Higher Diplomas,NOUN_CHUNK,NOUN_CHUNK
+Private faculty,accept,low grades,NOUN_CHUNK,NOUN_CHUNK
+three medical schools,are,Medical degrees,CARDINAL,NOUN_CHUNK
+UZ,offering,postgrad degrees,NOUN_CHUNK,NOUN_CHUNK
+Training,lasts,​5 1⁄2 years,NOUN_CHUNK,NOUN_CHUNK
+student,carried to,course,NOUN_CHUNK,NOUN_CHUNK
+university,experienced,major increase,NOUN_CHUNK,NOUN_CHUNK
+Brazilian medical schools,follow,European model,NOUN_CHUNK,NOUN_CHUNK
+ciclo,called,internato,NOUN_CHUNK,NOUN_CHUNK
+doctor,completed,specialty,NOUN_CHUNK,NOUN_CHUNK
+the Association of American Medical Colleges,lists,17 accredited MD-granting medical schools,ORG,CARDINAL
+the Association of American Medical Colleges,publishes,detailed guide,ORG,NOUN_CHUNK
+medical schools,require,MCAT,NOUN_CHUNK,NOUN_CHUNK
+Teaching methods,include,traditional lectures,NOUN_CHUNK,NOUN_CHUNK
+Students,rank,Students preferences,NOUN_CHUNK,NOUN_CHUNK
+the International Medical Education Directory,listed,59 current medical schools,ORG,CARDINAL
+Curaçao,has,5 medical schools,ORG,CARDINAL
+27 of which,are,active programs,CARDINAL,NOUN_CHUNK
+schools,have,placements,NOUN_CHUNK,NOUN_CHUNK
+students,introduced to,hands,NOUN_CHUNK,NOUN_CHUNK
+Students,sit,USMLE,NOUN_CHUNK,NOUN_CHUNK
+Medical schools,conduct,training,NOUN_CHUNK,NOUN_CHUNK
+Foreigners,require,special.authorization,NOUN_CHUNK,NOUN_CHUNK
+system,takes,students,NOUN_CHUNK,NOUN_CHUNK
+students,complete,series,NOUN_CHUNK,NOUN_CHUNK
+medical schools,have,additional requirements,NOUN_CHUNK,NOUN_CHUNK
+number,reduced to,only 76,NOUN_CHUNK,CARDINAL
+patient,give,consent,NOUN_CHUNK,NOUN_CHUNK
+Foreign medical school graduates,complete,training,NOUN_CHUNK,NOUN_CHUNK
+National Resident Match Program,lasts,seven years,NOUN_CHUNK,DATE
+universities,renamed,universities,NOUN_CHUNK,NOUN_CHUNK
+Biology questions,carry,30 marks,NOUN_CHUNK,MONEY
+English students,prepare,English students,NORP,LANGUAGE
+course,contributes,up to 75%,NOUN_CHUNK,PERCENT
+course,covers,variety,NOUN_CHUNK,NOUN_CHUNK
+Prospective medical students,enter,faculty,NOUN_CHUNK,NOUN_CHUNK
+The Supreme Court Of India,mandated,necessity,ORG,NOUN_CHUNK
+places,offer,seats,NOUN_CHUNK,NOUN_CHUNK
+General medicine education,takes,7 to 7.5 years,NOUN_CHUNK,DATE
+Students,enter,University,NOUN_CHUNK,NOUN_CHUNK
+Students,study,basic medical science,NOUN_CHUNK,NOUN_CHUNK
+organ based learning approach,emphasizes,critical thinking,NOUN_CHUNK,NOUN_CHUNK
+M.D doctors,continue,M.D doctors educations,GPE,GPE
+Israeli students,require,high school Baccalaureate average,NORP,NOUN_CHUNK
+scope,encompasses,aspect,NOUN_CHUNK,NOUN_CHUNK
+medical schools,include,the 5 years duration,NOUN_CHUNK,DATE
+Training,take,place,NOUN_CHUNK,NOUN_CHUNK
+Training,take,place,NOUN_CHUNK,NOUN_CHUNK
+Training,take,place,NOUN_CHUNK,NOUN_CHUNK
+Training,take,place,NOUN_CHUNK,NOUN_CHUNK
+Training,take,place,NOUN_CHUNK,NOUN_CHUNK
+Training,take,place,NOUN_CHUNK,NOUN_CHUNK
+Training,take,place,NOUN_CHUNK,NOUN_CHUNK
+new medical schools,offer,foundation,NOUN_CHUNK,NOUN_CHUNK
+students,begin,direct contact,NOUN_CHUNK,NOUN_CHUNK
+Year 5,continues,pattern,DATE,NOUN_CHUNK
+Trainee interns,repeat,rotations,NOUN_CHUNK,NOUN_CHUNK
+Trainee interns,receive,stipend grant,NOUN_CHUNK,NOUN_CHUNK
+Trainee interns,have,responsibility,NOUN_CHUNK,NOUN_CHUNK
+medical universities,are,medical colleges,NOUN_CHUNK,NOUN_CHUNK
+Clinical specialization,involves,two- year Master degree,NOUN_CHUNK,NOUN_CHUNK
+Americans,built,the University of the Philippines College of Medicine and Surgery,NOUN_CHUNK,ORG
+notable examples,include,the University of the Philippines College of Medicine,NOUN_CHUNK,ORG
+schools,emphasized,compulsory amounts,NOUN_CHUNK,NOUN_CHUNK
+incoming students,have,6 2 year curriculum,NOUN_CHUNK,NOUN_CHUNK
+their fourth year,offers,MBBS,DATE,NOUN_CHUNK
+2 of 3 medical schools in Singapore,offers,undergraduate,CARDINAL,NOUN_CHUNK
+medical students,pass,national medical licensing examinations,NOUN_CHUNK,NOUN_CHUNK
+Students,receive,degree,NOUN_CHUNK,NOUN_CHUNK
+Гродненскі,Russian,медыцынскі ўніверсітэт,ORG,NOUN_CHUNK
+Віцебскі,дзяржаўны,медыцынскі ўніверсітэт,NORP,NOUN_CHUNK
+course,lasts,6 years,NOUN_CHUNK,DATE
+course,lasts,6 years,NOUN_CHUNK,DATE
+students,take,total,NOUN_CHUNK,NOUN_CHUNK
+Czech Universities,offer,6-year General Medicine program,NOUN_CHUNK,NOUN_CHUNK
+Studies,involve,initial year preclinical period,NOUN_CHUNK,NOUN_CHUNK
+students,have,contact,NOUN_CHUNK,NOUN_CHUNK
+Finnish universities,integrated,clinical preclinical subjects,NOUN_CHUNK,NOUN_CHUNK
+Université René Descartes,welcomes,about 2000 students,NOUN_CHUNK,CARDINAL
+medical students,get,special status,NOUN_CHUNK,NOUN_CHUNK
+Med students,get,5 weeks,NOUN_CHUNK,DATE
+French medical students,receive,a State Diploma of Doctor of Medicine,NORP,ORG
+students,receive,Germany,NOUN_CHUNK,GPE
+graduate,awarded if,scientific study,NOUN_CHUNK,NOUN_CHUNK
+Hungary,has,four medical schools,GPE,CARDINAL
+Students,receive,degree dr,NOUN_CHUNK,NOUN_CHUNK
+Hungarian medical schools,have,programs,NOUN_CHUNK,NOUN_CHUNK
+Medical school,takes,6 years,NOUN_CHUNK,DATE
+Training,lasts,"four, five or six years",NOUN_CHUNK,DATE
+the National University of Ireland,launched,graduate entry programme,ORG,NOUN_CHUNK
+universities,provide,international degree course,NOUN_CHUNK,NOUN_CHUNK
+public medical schools,include,the International Medical School,NOUN_CHUNK,ORG
+La Sapienza,require,applicants,FAC,NOUN_CHUNK
+Italy,has,private parochial expensive English language medical schools,GPE,NOUN_CHUNK
+Medical school,lasts,6 years,NOUN_CHUNK,DATE
+schools,devoting,the second semester of the third year,NOUN_CHUNK,DATE
+Lithuania,has,two medical schools,GPE,CARDINAL
+Lithuanian medical schools,have,programs,NOUN_CHUNK,NOUN_CHUNK
+medical students,receive,6 years,NOUN_CHUNK,DATE
+medical students,receive,bachelor degree,NOUN_CHUNK,NOUN_CHUNK
+Admission,requires,high GPA,NOUN_CHUNK,NOUN_CHUNK
+43,are,medical specialties,CARDINAL,NOUN_CHUNK
+Universidade,do,Algarve,ORG,GPE
+Faculdade de Medicina da Universidade,do,Porto,ORG,GPE
+FAIMER,include,medical schools,NOUN_CHUNK,NOUN_CHUNK
+UK,has,approximately 8000 places,NOUN_CHUNK,NOUN_CHUNK
+Medical schools,admit,students,NOUN_CHUNK,NOUN_CHUNK
+meta analysis,suggested,depressive symptoms,NOUN_CHUNK,NOUN_CHUNK
+recent study,displayed,significantly higher risk,NOUN_CHUNK,NOUN_CHUNK
+23.5%,showed,clinically relevant depressive symptoms,PERCENT,NOUN_CHUNK
+schools,provide,major,NOUN_CHUNK,NOUN_CHUNK
+Admissions criteria,include,grade point averages,NOUN_CHUNK,NOUN_CHUNK
+Dartmouth,opened,medical school,ORG,NOUN_CHUNK
+AMA,published,set,NOUN_CHUNK,NOUN_CHUNK
+medical education,followed,standardized pattern,NOUN_CHUNK,NOUN_CHUNK
+applicants,obtain,education,NOUN_CHUNK,NOUN_CHUNK
+programs,allow,rapid fulfillment,NOUN_CHUNK,NOUN_CHUNK
+students,study,Osteopathic Manipulative Medicine,NOUN_CHUNK,ORG
+medical students,take,Step 2/Level,NOUN_CHUNK,NOUN_CHUNK
+Medical schools,use,variety,NOUN_CHUNK,NOUN_CHUNK
+school students,required for,federal loans,NOUN_CHUNK,NOUN_CHUNK
+rising cost,caused,concern,NOUN_CHUNK,NOUN_CHUNK
+level,is,strong effect,NOUN_CHUNK,NOUN_CHUNK
+hospital,receives,payment,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,children,NOUN_CHUNK,NOUN_CHUNK
+List,publishes,list,NOUN_CHUNK,NOUN_CHUNK
+the Royal Australasian College of Dental Surgeons,supervises,training,ORG,NOUN_CHUNK
+Collège des du Québec,oversees,process,NOUN_CHUNK,NOUN_CHUNK
+specialist training,lasts,5 years,NOUN_CHUNK,DATE
+UK survey,found,higher job satisfaction,NOUN_CHUNK,NOUN_CHUNK
+Medical genetics,encompasses,different individual fields,NOUN_CHUNK,NOUN_CHUNK
+Molecular oncology,identified,genes,NOUN_CHUNK,NOUN_CHUNK
+doctor patient relationship,begins,interaction,NOUN_CHUNK,NOUN_CHUNK
+diagnosis,take,only a few minutes or a few weeks,NOUN_CHUNK,TIME
+Medical history,comprises,HPI,NOUN_CHUNK,ORG
+patient,Medications,drugs,NOUN_CHUNK,NOUN_CHUNK
+clinical examination,involves,study of:.Vital signs,NOUN_CHUNK,NOUN_CHUNK
+characteristics,have,significant impact,NOUN_CHUNK,NOUN_CHUNK
+Christian emphasis,remains,rise,NORP,NOUN_CHUNK
+entire population,intended to,access,NOUN_CHUNK,NOUN_CHUNK
+tribal societies,provide,guarantee,NOUN_CHUNK,NOUN_CHUNK
+Access,affects,choice,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,nurses,NOUN_CHUNK,NOUN_CHUNK
+Physicians,have,specializations,NOUN_CHUNK,NOUN_CHUNK
+Neuroscience,includes,disciplines,NOUN_CHUNK,NOUN_CHUNK
+related clinical specialties,include,neurology,NOUN_CHUNK,NOUN_CHUNK
+Surgeons,manage,operative,NOUN_CHUNK,NOUN_CHUNK
+Surgery,has,sub specialties,NOUN_CHUNK,NOUN_CHUNK
+medical specialties,employ,surgical procedures,NOUN_CHUNK,NOUN_CHUNK
+Surgical training,requires,a minimum of five years,NOUN_CHUNK,DATE
+Sub specialties,require,seven or more years,NOUN_CHUNK,DATE
+fellowships,last,additional years,NOUN_CHUNK,NOUN_CHUNK
+terms,exclude,practitioners,NOUN_CHUNK,NOUN_CHUNK
+Interventional radiologists,access,areas,NOUN_CHUNK,NOUN_CHUNK
+Family physicians,provide,services,NOUN_CHUNK,NOUN_CHUNK
+Related non - medical fields,include,psychotherapy clinical psychology,NOUN_CHUNK,NOUN_CHUNK
+Laser medicine,involves,use,NOUN_CHUNK,NOUN_CHUNK
+Medical humanities,includes,humanities,NOUN_CHUNK,NOUN_CHUNK
+Pain management,is,pain medicine,NOUN_CHUNK,NOUN_CHUNK
+veterinarians,apply,similar techniques,NOUN_CHUNK,NOUN_CHUNK
+Medical education,involves,entry level education,NOUN_CHUNK,NOUN_CHUNK
+regulatory authorities,require,continuing medical education,NOUN_CHUNK,NOUN_CHUNK
+Medical practitioners,upgrade,Medical practitioners knowledge,NOUN_CHUNK,NOUN_CHUNK
+medical ethics,encompasses,medical ethics practical application,NOUN_CHUNK,NOUN_CHUNK
+Greek physician Hippocrates,laid,foundation,NOUN_CHUNK,NOUN_CHUNK
+Notable Islamic medical pioneers,include,Persian polymath,NOUN_CHUNK,NOUN_CHUNK
+historian,likened,activities,NOUN_CHUNK,NOUN_CHUNK
+the Catholic Church,established,network,ORG,NOUN_CHUNK
+medical doctors,treated,humans,NOUN_CHUNK,NOUN_CHUNK
+The post-18th century modernity period,brought,groundbreaking researchers,DATE,NOUN_CHUNK
+doctors,made,notable contributions,NOUN_CHUNK,NOUN_CHUNK
+developing countries,lack,access,NOUN_CHUNK,NOUN_CHUNK
+The World Health Organization (WHO,defines,traditional medicine,ORG,NOUN_CHUNK
+Practices,include,Ayurveda,NOUN_CHUNK,ORG
+Indian Medical Association,regard,traditional medicine practices,ORG,NOUN_CHUNK
+NHS England,oversees,budget,ORG,NOUN_CHUNK
+NHS England,commissions,NHS GPs,ORG,ORG
+NHS England,employs,"around 6,500 staff",ORG,CARDINAL
+"health care economy"".In 2016 NHS England",organised,geographical division,NOUN_CHUNK,NOUN_CHUNK
+NHS England,allocates,funding,ORG,NOUN_CHUNK
+NHS England,awarded,year contract,ORG,NOUN_CHUNK
+organisation responsibilities,include,arbitration,NOUN_CHUNK,NOUN_CHUNK
+city,had,population,NOUN_CHUNK,NOUN_CHUNK
+broader metropolitan area,had,population,NOUN_CHUNK,NOUN_CHUNK
+Montreal,has,second highest number,GPE,NOUN_CHUNK
+Montreal,hosted,multiple international conferences,GPE,NOUN_CHUNK
+Alpha− world city,hosts,the Canadian Grand Prix of Formula One,NOUN_CHUNK,ORG
+Archeologists,found,evidence,NOUN_CHUNK,NOUN_CHUNK
+French explorer Samuel de Champlain,established,fur trading post,NORP,NOUN_CHUNK
+group,left,New France,NOUN_CHUNK,GPE
+settlement,included,chapel,NOUN_CHUNK,NOUN_CHUNK
+the Sulpician Order,had,mission village,ORG,NOUN_CHUNK
+George Forster,approached,Lachine,PERSON,GPE
+Americans,burned,Fort Senneville,NOUN_CHUNK,GPE
+George Forster,negotiated,prisoner exchange,PERSON,NOUN_CHUNK
+Benedict Arnold,withdrew,Arnold's forces,PERSON,PERSON
+retreat,delayed,retreat,NOUN_CHUNK,NOUN_CHUNK
+Montreal,held,the World's Fair of 1967,GPE,EVENT
+The 1970s,ushered in,period,DATE,NOUN_CHUNK
+Montreal,hosted,the Summer Olympics,GPE,EVENT
+Montreal,experienced,slower rate,GPE,NOUN_CHUNK
+Montreal,annexed,27 other cities,GPE,CARDINAL
+The 21st century,brought with,revival,DATE,NOUN_CHUNK
+cold fronts,bring,crisp drier windy weather,NOUN_CHUNK,NOUN_CHUNK
+Winter,brings,cold,DATE,NOUN_CHUNK
+Pavilions,featured,wide range,ORG,NOUN_CHUNK
+distinguished title,recognizes,Montreal's design community,NOUN_CHUNK,GPE
+impressive network,connects,pedestrian thoroughfares,NOUN_CHUNK,NOUN_CHUNK
+neighbourhoods,include,affluent Golden Square Mile neighbourhood,NOUN_CHUNK,NOUN_CHUNK
+borough,included,Goose Village,NOUN_CHUNK,LOC
+notable neighbourhoods,include,multicultural areas,NOUN_CHUNK,NOUN_CHUNK
+Mount Royal Cemetery,contains,"more than 162,000 graves",FAC,CARDINAL
+the Mount Royal Cemetery Company,established,crematorium,ORG,NOUN_CHUNK
+new system,turn,lights,NOUN_CHUNK,NOUN_CHUNK
+Montreal,had,"1,704,694 inhabitants",GPE,CARDINAL
+Jewish community,has,population,NOUN_CHUNK,NOUN_CHUNK
+Jewish people,constitute,majority,NORP,NOUN_CHUNK
+Montreal,has,second largest economy,GPE,NOUN_CHUNK
+Montreal,seen as,revival,GPE,NOUN_CHUNK
+Industries,include,aerospace,NOUN_CHUNK,NOUN_CHUNK
+Montreal,hosts,headquarters,GPE,NOUN_CHUNK
+Montreal,attracted,world leading game developers,GPE,NOUN_CHUNK
+Warner Bros. first studio,create,300 jobs,ORG,CARDINAL
+Montreal,plays,important role,GPE,NOUN_CHUNK
+sector,employs,"approximately 100,000 people",NOUN_CHUNK,CARDINAL
+foreign subsidiaries,have,offices,NOUN_CHUNK,NOUN_CHUNK
+Montreal's many cultural communities,given,distinct local culture,GPE,NOUN_CHUNK
+Montreal,developed,unique distinguished cultural face,GPE,NOUN_CHUNK
+popular events,include,World Film Festival,NOUN_CHUNK,EVENT
+the Place des Arts,has,headquarters,ORG,NOUN_CHUNK
+Internationally recognized avant garde dance troupes,toured,world,NOUN_CHUNK,NOUN_CHUNK
+unique choreography,paved,way,NOUN_CHUNK,NOUN_CHUNK
+Montreal,has,four Roman Catholic basilicas,GPE,CARDINAL
+Canadiens recent Stanley Cup victory,have,major rivalries,NOUN_CHUNK,NOUN_CHUNK
+Montreal Alouettes,won,Stanley Cup,NOUN_CHUNK,PERSON
+Montreal Alouettes,had,two periods,NOUN_CHUNK,CARDINAL
+Montreal,has,storied baseball history,GPE,NOUN_CHUNK
+Major League Baseball,played,Major League Baseball games,ORG,ORG
+Fierté Montréal,joined,North America's biggest soccer league,ORG,LOC
+venue,held at,Montreal games,NOUN_CHUNK,GPE
+race,takes,place,NOUN_CHUNK,NOUN_CHUNK
+famous Circuit Gilles Villeneuve,hosted,round,NOUN_CHUNK,NOUN_CHUNK
+city council,has,jurisdiction,NOUN_CHUNK,NOUN_CHUNK
+Standing committees,review,annual budget forecasts,NOUN_CHUNK,NOUN_CHUNK
+meetings,include,public question period,NOUN_CHUNK,NOUN_CHUNK
+standing committees,have,terms,NOUN_CHUNK,NOUN_CHUNK
+CEGEPs,offer,pre - university 2-years technical 3-years programs,NOUN_CHUNK,NOUN_CHUNK
+Université du Québec,has,three separately run schools,ORG,CARDINAL
+Conservatoire de musique du Québec à Montréal,offers,Bachelor,ORG,NOUN_CHUNK
+two French-language universities,have,campuses,CARDINAL,NOUN_CHUNK
+Montreal,has,problem,GPE,NOUN_CHUNK
+STM bus routes,serve,"1,347,900 passengers",ORG,CARDINAL
+subway bus system,provides,adapted transport wheelchair accessible buses,NOUN_CHUNK,NOUN_CHUNK
+STM,won,award,NOUN_CHUNK,NOUN_CHUNK
+Canada's busiest subway system,had,station,GPE,NOUN_CHUNK
+Montreal,has,two international airports,GPE,CARDINAL
+Pierre Elliott Trudeau International Airport,serves,commercial passenger traffic,PERSON,NOUN_CHUNK
+Montreal-based Via Rail,provides,rail service,GPE,NOUN_CHUNK
+Amtrak,operates,Amtrak,ORG,ORG
+"CPR, CN",divested,"CPR, CN",ORG,ORG
+Réseau,unveiled,métropolitain,NOUN_CHUNK,NOUN_CHUNK
+NHS Improvement,published,league table,ORG,NOUN_CHUNK
+Learning,concerns about,trusts,NOUN_CHUNK,NOUN_CHUNK
+Nanomedicine sales,reached,$16 billion,ORG,MONEY
+HIV infection,lasts,entire lifetime,NOUN_CHUNK,NOUN_CHUNK
+Poor compliance pill fatigue,favor,resurgence,NOUN_CHUNK,NOUN_CHUNK
+Quantum dots,produce,exceptional images,ORG,NOUN_CHUNK
+different color dyes,was,different frequencies,NOUN_CHUNK,NOUN_CHUNK
+Nanopore technology,converts,strings,NOUN_CHUNK,NOUN_CHUNK
+surgeons,do,surgeries,NOUN_CHUNK,NOUN_CHUNK
+successful,Tissue engineering if,conventional treatments,NOUN_CHUNK,NOUN_CHUNK
+Future advances,give,rise,NOUN_CHUNK,NOUN_CHUNK
+study,use,disorder,NOUN_CHUNK,NOUN_CHUNK
+the National Board of Examinations,conducts,largest portfolio,ORG,NOUN_CHUNK
+Examinations.the National Board of Examinations,conducts,following examinations:.DNB final exit examinations,ORG,NOUN_CHUNK
+The National Insurance Act 1911,created,National Insurance,LAW,ORG
+Lloyd George measure,gave,contributory system,PERSON,NOUN_CHUNK
+Approved Societies,own,expenditure,NOUN_CHUNK,NOUN_CHUNK
+scheme,made,provision,NOUN_CHUNK,NOUN_CHUNK
+217 trusts,are,"around 800,000",CARDINAL,CARDINAL
+Dr. Joseph DeLee,established,premature infant incubator station,NOUN_CHUNK,NOUN_CHUNK
+the American Board of Pediatrics,established,sub board certification,ORG,NOUN_CHUNK
+The 1950s,brought,rapid escalation,DATE,NOUN_CHUNK
+development,improved,survival,NOUN_CHUNK,NOUN_CHUNK
+countries,run,similar programs,NOUN_CHUNK,NOUN_CHUNK
+neonatologists,perform,clinical basic science research,NOUN_CHUNK,NOUN_CHUNK
+Hypoplastic,left,heart syndrome,NOUN_CHUNK,NOUN_CHUNK
+Neonatologists,earn,general pediatricians,ORG,NOUN_CHUNK
+maternal neonatal hospital stays,constituted,largest proportion,NOUN_CHUNK,NOUN_CHUNK
+Maternal Neonatal stays,constituted,27 percent,NOUN_CHUNK,PERCENT
+Jeremy Richard Streynsham Hunt,oversaw,imposition,PERSON,NOUN_CHUNK
+junior doctors,undertook,multiple strikes,NOUN_CHUNK,NOUN_CHUNK
+Elms,sold,Hunt and Elms interest,ORG,ORG
+Jeremy Richard Streynsham Hunt,gained,over £14 million,PERSON,MONEY
+Parliamentary Commissioner,found,Jeremy Richard Streynsham Hunt,NOUN_CHUNK,PERSON
+public funds,provided,benefit,NOUN_CHUNK,NOUN_CHUNK
+The Legg Report,showed,issues,ORG,NOUN_CHUNK
+Jeremy Richard Streynsham Hunt,supported,Britain,PERSON,GPE
+Jeremy Richard Streynsham Hunt,rectified,error,PERSON,NOUN_CHUNK
+The Labour Party,referred,Jeremy Richard Streynsham Hunt,ORG,PERSON
+News Corp. Emails,released to,detailed contacts,ORG,NOUN_CHUNK
+Leveson,may,Jeremy Richard Streynsham Hunt,ORG,PERSON
+cases locum agencies,charging,up to 49%,NOUN_CHUNK,PERCENT
+Jeremy Richard Streynsham Hunt,announced,increase,PERSON,NOUN_CHUNK
+Chris Hopson,described,seven day NHS plan,PERSON,NOUN_CHUNK
+58%,rejected,final offer,PERCENT,NOUN_CHUNK
+Jeremy Richard Streynsham Hunt,won,case,PERSON,NOUN_CHUNK
+Jeremy Richard Streynsham Hunt,thanked,Ecuadorean President Lenín Moreno,PERSON,NOUN_CHUNK
+Jeremy Richard Streynsham Hunt,held,Jeremy Richard Streynsham Hunt,PERSON,PERSON
+Jeremy Richard Streynsham Hunt,runs,duvet linens business,PERSON,NOUN_CHUNK
+Neurological practice,relies,scientific study,NOUN_CHUNK,NOUN_CHUNK
+neurologists,have,additional training,NOUN_CHUNK,NOUN_CHUNK
+neurologists,receive,additional subspecialty training,NOUN_CHUNK,NOUN_CHUNK
+Subspecialties,include,brain injury medicine,NOUN_CHUNK,NOUN_CHUNK
+neurologist,reviews,patient health history,NOUN_CHUNK,NOUN_CHUNK
+patient,takes,neurological exam,NOUN_CHUNK,NOUN_CHUNK
+neurological exam,tests,mental status,NOUN_CHUNK,NOUN_CHUNK
+Neurologists,examine,patients,NOUN_CHUNK,NOUN_CHUNK
+Components,include,assessment,NOUN_CHUNK,NOUN_CHUNK
+neurologists,order,additional diagnostic tests,NOUN_CHUNK,NOUN_CHUNK
+Commonly employed tests,include,imaging studies,NOUN_CHUNK,NOUN_CHUNK
+The American Board of Clinical Neurophysiology,certifies,US physicians,ORG,GPE
+Neurologists,refer,patient,NORP,NOUN_CHUNK
+neurologists,develop,interest,NOUN_CHUNK,NOUN_CHUNK
+emergence,created,demand,NOUN_CHUNK,NOUN_CHUNK
+establishment,increased,role,NOUN_CHUNK,NOUN_CHUNK
+patient,treated by,certain age,NOUN_CHUNK,NOUN_CHUNK
+Physical medicine,treat,patients,NOUN_CHUNK,NOUN_CHUNK
+General Hospital,cost,£75 million,NOUN_CHUNK,MONEY
+Northumbria Healthcare NHS Foundation Trust,established,subsidiary company,ORG,NOUN_CHUNK
+Northumbria Healthcare NHS Foundation Trust,set up,wholly owned subsidiary,ORG,NOUN_CHUNK
+Northumbria Healthcare NHS Foundation Trust,introduced into,Performance,ORG,NOUN_CHUNK
+Hospital Guide 2013.The Trust,had,7217 full-time equivalent staff,NOUN_CHUNK,CARDINAL
+Northumbria Healthcare NHS Foundation Trust Northumbria Healthcare NHS Foundation Trust,received,outstanding rating,ORG,NOUN_CHUNK
+payment,acts as,entitlement,NOUN_CHUNK,NOUN_CHUNK
+National Insurance contributions,form,significant proportion,ORG,NOUN_CHUNK
+benefit component,includes,contributory benefits,NOUN_CHUNK,NOUN_CHUNK
+The Beveridge Report,proposed,expansion,ORG,NOUN_CHUNK
+employee contributions,paid,certain low paid workers,NOUN_CHUNK,NOUN_CHUNK
+HMRC,allocate,letter,NOUN_CHUNK,NOUN_CHUNK
+HMRC,provide,online National Insurance Calculator,ORG,NOUN_CHUNK
+Class 1A contributions,provide,benefit entitlement,NOUN_CHUNK,NOUN_CHUNK
+employer,introduced on,tax liabilities,NOUN_CHUNK,NOUN_CHUNK
+benefit component,comprises,number,NOUN_CHUNK,NOUN_CHUNK
+problems,was,widespread media coverage,NOUN_CHUNK,NOUN_CHUNK
+Examples,include,acquired conditions,NOUN_CHUNK,NOUN_CHUNK
+Nephrology,requires,additional training,NOUN_CHUNK,NOUN_CHUNK
+Nephrologists,provide,care,PERSON,NOUN_CHUNK
+Nephrology training,includes,completion,NOUN_CHUNK,NOUN_CHUNK
+Consultants,practice,nephrology,NOUN_CHUNK,NOUN_CHUNK
+medical school adult nephrologists,complete,year residency,NOUN_CHUNK,NOUN_CHUNK
+pediatric nephrologist,complete,year pediatric residency,NOUN_CHUNK,NOUN_CHUNK
+nephrologists,need,two to three years,NOUN_CHUNK,DATE
+history,includes,present illness,NOUN_CHUNK,NOUN_CHUNK
+physical examination,includes,assessment,NOUN_CHUNK,NOUN_CHUNK
+Examination,allows,direct assessment,NOUN_CHUNK,NOUN_CHUNK
+invasive testing,provide,certain diagnosis,NOUN_CHUNK,NOUN_CHUNK
+Treatments,include,medications,NOUN_CHUNK,NOUN_CHUNK
+Impaired kidney function,has,systemic effects,NOUN_CHUNK,NOUN_CHUNK
+Jean Hamburger,founded,the 'Société de Néphrologie',PERSON,ORG
+The American Kidney Fund,provides,financial support,ORG,NOUN_CHUNK
+second blood screen,refines,risk,NOUN_CHUNK,NOUN_CHUNK
+fasting glucose,suggests,gestational diabetes,NOUN_CHUNK,NOUN_CHUNK
+normal gestation,reveal,gestational sac,NOUN_CHUNK,NOUN_CHUNK
+fetus,associated with,surfactant,NOUN_CHUNK,NOUN_CHUNK
+Risks,include,miscarriage,NOUN_CHUNK,NOUN_CHUNK
+Lupus,confers,increased rate,NOUN_CHUNK,NOUN_CHUNK
+Thyroid disease,cause,adverse effects,NOUN_CHUNK,NOUN_CHUNK
+Women,develop,pre - eclampsia following delivery,NOUN_CHUNK,NOUN_CHUNK
+Skilled midwives,managed,aspects,NOUN_CHUNK,NOUN_CHUNK
+introduction,took,place,NOUN_CHUNK,NOUN_CHUNK
+midwives,opposed,involvement,NOUN_CHUNK,NOUN_CHUNK
+The 19th century,marked,era,DATE,NOUN_CHUNK
+1880s mortality rates,reach,unacceptably high levels,NOUN_CHUNK,NOUN_CHUNK
+James Marion Sims,have,controversial medical past,PERSON,NOUN_CHUNK
+James Marion Sims,practiced,James Marion Sims surgical skills,PERSON,ORG
+Women,inhabited,different roles,NOUN_CHUNK,NOUN_CHUNK
+Experienced OB GYN professionals,seek,certifications,NOUN_CHUNK,NOUN_CHUNK
+portion,takes,five years,NOUN_CHUNK,DATE
+Experienced OB-GYN professionals,complete,years,ORG,NOUN_CHUNK
+type,has,99 % success rate,NOUN_CHUNK,NOUN_CHUNK
+Occupational physicians,have,broad knowledge,NOUN_CHUNK,NOUN_CHUNK
+Occupational physicians,advise,international bodies,NOUN_CHUNK,NOUN_CHUNK
+neurosurgeon training,requires,minimum period,NOUN_CHUNK,NOUN_CHUNK
+neurosurgeon,complete,four years,NOUN_CHUNK,DATE
+residency programs,have,component,NOUN_CHUNK,NOUN_CHUNK
+Neurosurgeons,pursue,additional training,NOUN_CHUNK,NOUN_CHUNK
+fellowships,include,pediatric neurosurgery,NOUN_CHUNK,NOUN_CHUNK
+students,gain,entry,NOUN_CHUNK,NOUN_CHUNK
+MBBS qualification,takes,four to six years,NOUN_CHUNK,DATE
+Al-Zahrawi,performed,surgical treatments,PERSON,NOUN_CHUNK
+Richard Canton,discovered,electrical signals,PERSON,NOUN_CHUNK
+researcher Philip Kennedy,implanted,Brain Computer Interface,NOUN_CHUNK,NOUN_CHUNK
+Modern neurosurgical tools,include,chisels,NOUN_CHUNK,NOUN_CHUNK
+The World Federation of Neurosurgical Societies,has,consultative status,ORG,NOUN_CHUNK
+General neurosurgery,involves,neurosurgical conditions,NOUN_CHUNK,NOUN_CHUNK
+level 1 hospitals,have,kind,NOUN_CHUNK,NOUN_CHUNK
+Common tissue samples,include,muscle fibers,NOUN_CHUNK,NOUN_CHUNK
+Neuroradiology methods,include,computer assisted imaging computed tomography,NOUN_CHUNK,NOUN_CHUNK
+Minimally invasive spine surgery,utilizes,microscopes,NOUN_CHUNK,NOUN_CHUNK
+Endovascular surgical neuroradiology,utilize,endovascular image guided procedures,NOUN_CHUNK,NOUN_CHUNK
+indications,include,spinal cord compression,NOUN_CHUNK,NOUN_CHUNK
+patients,have,difficulty,NOUN_CHUNK,NOUN_CHUNK
+Radiology,assisted,spine surgery,NOUN_CHUNK,NOUN_CHUNK
+Radiology,include,techniques,NOUN_CHUNK,NOUN_CHUNK
+Potentially unstable spines,need,spine fusions,NOUN_CHUNK,NOUN_CHUNK
+procedures,include,complex instrumentation,NOUN_CHUNK,NOUN_CHUNK
+Gabapentin,decrease,vomiting,NOUN_CHUNK,NOUN_CHUNK
+credentials,include,degree,NOUN_CHUNK,NOUN_CHUNK
+Residency training programs,require,year internship,NOUN_CHUNK,NOUN_CHUNK
+Aristotle,advanced,ideas,PERSON,NOUN_CHUNK
+Aristotle,put forth,existence,PERSON,NOUN_CHUNK
+Rufus,recognised,modern concept,PERSON,NOUN_CHUNK
+Celsus,gave,detailed description,NOUN_CHUNK,NOUN_CHUNK
+Rufus,remedied,mistaken descriptions,PERSON,NOUN_CHUNK
+Rufus,counted,seven optical muscles,PERSON,CARDINAL
+Leeuwenhoek,noted,existence,PERSON,NOUN_CHUNK
+Jacques Daviel,advocated,new treatment,PERSON,NOUN_CHUNK
+Clinical developments,established,site,NOUN_CHUNK,NOUN_CHUNK
+ophthalmologist Albrecht von Graefe,considered,iridectomy,NOUN_CHUNK,NOUN_CHUNK
+representative leader,built,modern clinic,NOUN_CHUNK,NOUN_CHUNK
+Igersheimer,conducted,experiments,ORG,NOUN_CHUNK
+representative leader,performed,successful treatment,NOUN_CHUNK,NOUN_CHUNK
+ophthalmologists,undergo,additional specialized training,NOUN_CHUNK,NOUN_CHUNK
+structured training system,takes,place,NOUN_CHUNK,NOUN_CHUNK
+graduating ophthalmologist,pass,oral written portions,NOUN_CHUNK,NOUN_CHUNK
+work experience,refines,skills,NOUN_CHUNK,NOUN_CHUNK
+Nepalese citizens,study,subject,NOUN_CHUNK,NOUN_CHUNK
+Total postgraduate training,involves,an intern year,NOUN_CHUNK,DATE
+Clinical training,takes,place,NOUN_CHUNK,NOUN_CHUNK
+King Edward Medical University,started,degree program,ORG,NOUN_CHUNK
+PAO,regulates,ophthalmology residency programs,ORG,NOUN_CHUNK
+three colleges,grant,postgraduate degrees,CARDINAL,NOUN_CHUNK
+ophthalmologists,complete,four years,NOUN_CHUNK,DATE
+Theodor Leber,discovered,Leber's congenital amaurosis,PERSON,PERSON
+Ignacio Barraquer,invented,motorized vacuum instrument,PERSON,NOUN_CHUNK
+Spain,founded,the Barraquer Clinic,NOUN_CHUNK,ORG
+father,was,lamellar techniques,NOUN_CHUNK,NOUN_CHUNK
+Tadeusz Krwawicz,developed,cryoprobe,PERSON,NOUN_CHUNK
+Ioannis Pallikaris,performed,laser assisted intrastromal keratomileusis LASIK surgery,PERSON,NOUN_CHUNK
+neurosurgeon training,requires,minimum period,NOUN_CHUNK,NOUN_CHUNK
+neurosurgeon,complete,four years,NOUN_CHUNK,DATE
+residency programs,have,component,NOUN_CHUNK,NOUN_CHUNK
+Neurosurgeons,pursue,additional training,NOUN_CHUNK,NOUN_CHUNK
+fellowships,include,pediatric neurosurgery,NOUN_CHUNK,NOUN_CHUNK
+students,gain,entry,NOUN_CHUNK,NOUN_CHUNK
+MBBS qualification,takes,four to six years,NOUN_CHUNK,DATE
+Al-Zahrawi,performed,surgical treatments,PERSON,NOUN_CHUNK
+Richard Canton,discovered,electrical signals,PERSON,NOUN_CHUNK
+researcher Philip Kennedy,implanted,Brain Computer Interface,NOUN_CHUNK,NOUN_CHUNK
+Modern neurosurgical tools,include,chisels,NOUN_CHUNK,NOUN_CHUNK
+The World Federation of Neurosurgical Societies,has,consultative status,ORG,NOUN_CHUNK
+General neurosurgery,involves,neurosurgical conditions,NOUN_CHUNK,NOUN_CHUNK
+level 1 hospitals,have,kind,NOUN_CHUNK,NOUN_CHUNK
+Common tissue samples,include,muscle fibers,NOUN_CHUNK,NOUN_CHUNK
+Neuroradiology methods,include,computer assisted imaging computed tomography,NOUN_CHUNK,NOUN_CHUNK
+Minimally invasive spine surgery,utilizes,microscopes,NOUN_CHUNK,NOUN_CHUNK
+Endovascular surgical neuroradiology,utilize,endovascular image guided procedures,NOUN_CHUNK,NOUN_CHUNK
+indications,include,spinal cord compression,NOUN_CHUNK,NOUN_CHUNK
+patients,have,difficulty,NOUN_CHUNK,NOUN_CHUNK
+Radiology,assisted,spine surgery,NOUN_CHUNK,NOUN_CHUNK
+Radiology,include,techniques,NOUN_CHUNK,NOUN_CHUNK
+Potentially unstable spines,need,spine fusions,NOUN_CHUNK,NOUN_CHUNK
+procedures,include,complex instrumentation,NOUN_CHUNK,NOUN_CHUNK
+Gabapentin,decrease,vomiting,NOUN_CHUNK,NOUN_CHUNK
+origins,found in,a few thousand years BC,NOUN_CHUNK,DATE
+FOVS,offers,MSc PhD degrees,NOUN_CHUNK,NOUN_CHUNK
+The Ghana Optometric Association,regulates,practice,ORG,NOUN_CHUNK
+new optometrist,write,qualifying exam,NOUN_CHUNK,NOUN_CHUNK
+University of Ulster,supporting,partners,ORG,NOUN_CHUNK
+Dublin Institute of Technology,offers,years,ORG,NOUN_CHUNK
+the Ministry of Health,accepted,Optometry,ORG,ORG
+The Optometrists Board of the Supplementary Medical Professions Council,regulates,profession,ORG,NOUN_CHUNK
+the Wenzhou Medical University,runs,optometry school,ORG,NOUN_CHUNK
+the Wenzhou Medical University,produces,35,ORG,NOUN_CHUNK
+Optometrists,join,tiered service delivery level,NOUN_CHUNK,NOUN_CHUNK
+Isra University Lahore,launched,OD,ORG,NOUN_CHUNK
+Isra University,launched,Doctor of Optometry Program,ORG,ORG
+Professional organizations,include,Optometric Association of Philippines,NOUN_CHUNK,ORG
+Tertiary education,takes,3 years,NOUN_CHUNK,DATE
+Hellenic Ministry of Education,founded,department,ORG,NOUN_CHUNK
+Professor Ioannis Pallikaris,received,numerous awards,NOUN_CHUNK,NOUN_CHUNK
+Professor Ioannis Pallikaris,performed,LASIK procedure,NOUN_CHUNK,NOUN_CHUNK
+optometrist,complete,year degree,NOUN_CHUNK,NOUN_CHUNK
+A.O.I.,runs,comprehensive continuing education,NOUN_CHUNK,NOUN_CHUNK
+Members,use,suffix,NOUN_CHUNK,NOUN_CHUNK
+The National Health Service,provides,free sight tests,ORG,NOUN_CHUNK
+elderly,get,free periodic tests,NOUN_CHUNK,NOUN_CHUNK
+Twelve universities,offer,Optometry,CARDINAL,ORG
+Doctors of Optometry,complete,four years,ORG,DATE
+Canada,recognizes,degrees,GPE,NOUN_CHUNK
+Doctors of Optometry,write,national written practical board exams,ORG,NOUN_CHUNK
+Optometrists,provide,optical medical eye care,NOUN_CHUNK,NOUN_CHUNK
+Optometrists,provide,comprehensive optical medical eye care,NOUN_CHUNK,NOUN_CHUNK
+Optometrists,manage,vision development,NOUN_CHUNK,NOUN_CHUNK
+Optometrists,prescribe,topical medication,NOUN_CHUNK,NOUN_CHUNK
+Common eye conditions,include,infections,NOUN_CHUNK,NOUN_CHUNK
+Optometrists,complete,course work,NOUN_CHUNK,NOUN_CHUNK
+Doctors,complete,four years,NOUN_CHUNK,DATE
+Training,takes,place,NOUN_CHUNK,NOUN_CHUNK
+CBOO Brazilian Council,represents,Brazilian optometrists,NOUN_CHUNK,NORP
+the Colombian Government,set,rules,ORG,NOUN_CHUNK
+La Salle University,opened,La Salle University first Faculty,ORG,ORG
+11th ADA,recognized,dental specialty,NOUN_CHUNK,NOUN_CHUNK
+Thomas E Bond,authored,book,PERSON,NOUN_CHUNK
+aspect,managing,dental oral condition,NOUN_CHUNK,NOUN_CHUNK
+individuals,is,lump,NOUN_CHUNK,NOUN_CHUNK
+Multiple lesions,suggest,infective developmental aetiology,NOUN_CHUNK,NOUN_CHUNK
+the University of Toronto,offer,programs,ORG,NOUN_CHUNK
+residents,combine,oral medicine programs,NOUN_CHUNK,NOUN_CHUNK
+the Australian Dental Council,defines,oral medicine,ORG,NOUN_CHUNK
+UK oral medicine specialists,have,dual qualification,NOUN_CHUNK,NOUN_CHUNK
+an American Dental Association,started,dental practice parameters,ORG,NOUN_CHUNK
+Organs,include,heart,NOUN_CHUNK,NOUN_CHUNK
+Transplantation,raises,number,NOUN_CHUNK,NOUN_CHUNK
+donor,transplanted into,"The ""Good Samaritan"" kidney",NOUN_CHUNK,WORK_OF_ART
+Johns Hopkins Medical Center,received,significant attention,ORG,NOUN_CHUNK
+Hand,see,recipient,NOUN_CHUNK,NOUN_CHUNK
+Cornea,see,ophthalmologist Eduard Zirm,NOUN_CHUNK,NOUN_CHUNK
+deceased organ donors,have,inferior outcomes,NOUN_CHUNK,NOUN_CHUNK
+woman,had,uterus,NOUN_CHUNK,NOUN_CHUNK
+uterus,sustained,pregnancy,NOUN_CHUNK,NOUN_CHUNK
+UNOS,handled by,donor cornea tissue,ORG,NOUN_CHUNK
+UNOS,allocates,organs,ORG,NOUN_CHUNK
+American teenager,received,heart lung donation,NOUN_CHUNK,NOUN_CHUNK
+Kidney disease organizations,expressed,Kidney disease organizations,NOUN_CHUNK,NOUN_CHUNK
+donors,get,money,NOUN_CHUNK,NOUN_CHUNK
+Iran,had,legal market,GPE,NOUN_CHUNK
+About 100 people,sold,About 100 people,CARDINAL,CARDINAL
+2010 police,closed,fertility clinic,DATE,NOUN_CHUNK
+sort,violates,laws,NOUN_CHUNK,NOUN_CHUNK
+certain authorities,been,organs,NOUN_CHUNK,NOUN_CHUNK
+Cadaveric donors,represent,35%,ORG,PERCENT
+Muslim authorities,accept,practice,NOUN_CHUNK,NOUN_CHUNK
+China's transplant programme,attracted,attention,GPE,NOUN_CHUNK
+different groups,express,definite interest,NOUN_CHUNK,NOUN_CHUNK
+Indian surgeon,attributed,mechanism,NOUN_CHUNK,NOUN_CHUNK
+Sushruta,work,De Curtorum Chirurgia,NOUN_CHUNK,WORK_OF_ART
+Carrel,performed,transplant experiments,PERSON,NOUN_CHUNK
+transplant recipients,survive,more than 30 days,NOUN_CHUNK,DATE
+Peter Medawar,improved,understanding,PERSON,NOUN_CHUNK
+Christiaan Barnard,achieved on,world human human heart transplant,PERSON,NOUN_CHUNK
+media interest,prompted,spate,NOUN_CHUNK,NOUN_CHUNK
+surgical pioneer Denton Cooley,performed,17 transplants,NOUN_CHUNK,CARDINAL
+successful deceased donor lung transplant,took,place,NOUN_CHUNK,NOUN_CHUNK
+head surgeon,credited,patient recovery,NOUN_CHUNK,NOUN_CHUNK
+kidney,purchased in,"more than $10,000",NOUN_CHUNK,MONEY
+Regulations,include,criteria,NOUN_CHUNK,NOUN_CHUNK
+countries,implemented,legislative reactions,NOUN_CHUNK,NOUN_CHUNK
+The Transplant Ethics Committee,approve,living donor kidney transplants,ORG,NOUN_CHUNK
+economist Alex Tabarrok,examined,impact,NOUN_CHUNK,NOUN_CHUNK
+Alcohol consumption,increases,risk,NOUN_CHUNK,NOUN_CHUNK
+Obese individuals,have,increased risk,NOUN_CHUNK,NOUN_CHUNK
+Certain infectious agents,cause,cancer,NOUN_CHUNK,NOUN_CHUNK
+Blood investigations,include,lactate dehydrogenase,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,radiation,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,radiation,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,chemotherapy,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,chemotherapy,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgery,NOUN_CHUNK,NOUN_CHUNK
+Lymphoma,includes,Hodgkin lymphoma,NOUN_CHUNK,NOUN_CHUNK
+Acute leukemias,includes,acute lymphoblastic leukemia,NOUN_CHUNK,NOUN_CHUNK
+Chronic leukemias,include,chronic lymphocytic leukemia,NOUN_CHUNK,NOUN_CHUNK
+Certain techniques,show,metabolism,NOUN_CHUNK,NOUN_CHUNK
+increased physiological function,mean,increased concentration,NOUN_CHUNK,NOUN_CHUNK
+benefit,exposure,procedure,NOUN_CHUNK,NOUN_CHUNK
+Pre - imaging preparations,include,dietary preparation,NOUN_CHUNK,NOUN_CHUNK
+array,represent,time sequence,NOUN_CHUNK,NOUN_CHUNK
+history,contains,contributions,NOUN_CHUNK,NOUN_CHUNK
+historians,consider,discovery,NOUN_CHUNK,NOUN_CHUNK
+Taro Takemi,studied,application,PERSON,NOUN_CHUNK
+versions,have,254 scintillators,NOUN_CHUNK,CARDINAL
+American Medical Association,recognized,Nuclear Medicine,ORG,ORG
+recent developments,include,invention,NOUN_CHUNK,NOUN_CHUNK
+studies,require,labeling,NOUN_CHUNK,NOUN_CHUNK
+diagnostic radionuclides,emit,gamma rays,NOUN_CHUNK,NOUN_CHUNK
+radiopharmaceutical,used,distribution,NOUN_CHUNK,NOUN_CHUNK
+common bone scan,has,effective dose,NOUN_CHUNK,NOUN_CHUNK
+Patients,seek,treatment,NOUN_CHUNK,NOUN_CHUNK
+ENT surgery,encompasses,surgical management,ORG,NOUN_CHUNK
+trainees,complete,at least five years,NOUN_CHUNK,DATE
+practitioners,complete,year residency training,NOUN_CHUNK,NOUN_CHUNK
+Fellowships,include,head,NOUN_CHUNK,NOUN_CHUNK
+Otitis,externa,ear ear canal inflammation,ORG,NOUN_CHUNK
+Rhinology,includes,nasal dysfunction,NOUN_CHUNK,NOUN_CHUNK
+surgeon,harvests,muscle,NOUN_CHUNK,NOUN_CHUNK
+5 gracilis vascular pedicle,comprised,muscular branch,NOUN_CHUNK,NOUN_CHUNK
+donor submental artery,provided,excellent size match,NOUN_CHUNK,NOUN_CHUNK
+following outline,encompasses,variety,NOUN_CHUNK,NOUN_CHUNK
+Neuroscience,includes,disciplines,NOUN_CHUNK,NOUN_CHUNK
+William Harvey,describes,blood circulation,PERSON,NOUN_CHUNK
+Louis Pasteur,founded,bacteriology,PERSON,NOUN_CHUNK
+accidental discovery,Alexander Fleming,field,NOUN_CHUNK,NOUN_CHUNK
+Christiaan Barnard,performed,heart transplant,PERSON,NOUN_CHUNK
+NLM,contains,resources,ORG,NOUN_CHUNK
+Massachusetts General Hospital,views,demonstration,ORG,NOUN_CHUNK
+event,marked,beginning,NOUN_CHUNK,NOUN_CHUNK
+U.S. President Grover Cleveland,chose,Dr. Hasbrouck,GPE,NOUN_CHUNK
+Dr. Varaztad Kazanjian,pioneered,plastic surgery,NOUN_CHUNK,NOUN_CHUNK
+Wald,made,advances,PERSON,NOUN_CHUNK
+D.M.D.,represent,education,NOUN_CHUNK,NOUN_CHUNK
+Oral maxillofacial surgery,requires,four to six years,NOUN_CHUNK,DATE
+four-year residency programs,grant,certificate,DATE,NOUN_CHUNK
+Six-year residency programs,grant,specialty certificate,DATE,NOUN_CHUNK
+programs,integrate,additional degree,NOUN_CHUNK,NOUN_CHUNK
+MDCM).After completion,undertake,final specialty examinations,NOUN_CHUNK,NOUN_CHUNK
+"FRCDC"".Some colleges",offer,membership,ORG,NOUN_CHUNK
+single dual qualified oral maxillofacial surgeons,obtain,fellowship,NOUN_CHUNK,NOUN_CHUNK
+single dual qualified graduates,pursue,post - residency sub specialty fellowships,NOUN_CHUNK,NOUN_CHUNK
+number,provide,humanitarian oral maxillofacial surgery,NOUN_CHUNK,NOUN_CHUNK
+publishers,delay,release,NOUN_CHUNK,NOUN_CHUNK
+the British Library,announced,support,ORG,NOUN_CHUNK
+process,reveal,errors,NOUN_CHUNK,NOUN_CHUNK
+publishers,provide,PDF,NOUN_CHUNK,NOUN_CHUNK
+system,provides,search capability,NOUN_CHUNK,NOUN_CHUNK
+randomised trial,found,increase,NOUN_CHUNK,NOUN_CHUNK
